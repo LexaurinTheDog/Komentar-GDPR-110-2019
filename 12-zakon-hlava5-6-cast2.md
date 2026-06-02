@@ -184,13 +184,14 @@ Nižší věková hranice (35 let oproti 40 let u předsedy) a odkaz na § 52 od
 ### § 58 — Oprávnění Úřadu na přístup k informacím
 
 > **§ 58**
-> *(1) Úřad je oprávněn seznamovat se se všemi informacemi nezbytnými pro plnění konkrétního úkolu. To platí i pro informace chráněné povinností mlčenlivosti podle jiného právního předpisu, nestanoví-li jiný právní předpis pro přístup Úřadu k takovým údajům jiné podmínky.*
 >
-> *(2) S informacemi chráněnými povinností mlčenlivosti podle zákona o advokacii je Úřad oprávněn se seznamovat pouze za přítomnosti a se souhlasem zástupce České advokátní komory, kterého ustanoví předseda komory z řad jejích zaměstnanců nebo z řad advokátů. Odmítne-li zástupce komory souhlas udělit, bezodkladně zajistí na písemnou žádost Úřadu důvěrnost a neporušenost informací podle věty první a bezodkladně předá kontrolní radě komory písemnou žádost Úřadu o nahrazení souhlasu zástupce komory rozhodnutím kontrolní rady komory. Nerozhodne-li kontrolní rada komory o žádosti Úřadu tak, že nahrazuje souhlas zástupce komory, ve lhůtě 30 dnů ode dne doručení žádosti zástupcem komory, lze souhlas zástupce komory nahradit na návrh Úřadu rozhodnutím soudu podle zákona o zvláštních řízeních soudních.*
+> *(1) Úřad je oprávněn seznamovat se se všemi informacemi nezbytnými pro plnění konkrétního úkolu. To platí i pro informace chráněné povinností mlčenlivosti podle jiného právního předpisu, nestanoví-li jiný právní předpis9) pro přístup Úřadu k takovým údajům jiné podmínky.*
 >
-> *(3) S informacemi chráněnými povinností mlčenlivosti podle zákona o daňovém poradenství a Komoře daňových poradců České republiky je Úřad oprávněn se seznamovat pouze za přítomnosti a se souhlasem zástupce Komory daňových poradců České republiky […]*
+> *(2) S informacemi chráněnými povinností mlčenlivosti podle zákona o advokacii je Úřad oprávněn se seznamovat pouze za přítomnosti a se souhlasem zástupce České advokátní komory (dále jen „komora“), kterého ustanoví předseda komory z řad jejích zaměstnanců nebo z řad advokátů. Odmítne-li zástupce komory souhlas udělit, bezodkladně zajistí na písemnou žádost Úřadu důvěrnost a neporušenost informací podle věty první a bezodkladně předá kontrolní radě komory písemnou žádost Úřadu o nahrazení souhlasu zástupce komory rozhodnutím kontrolní rady komory. Nerozhodne-li kontrolní rada komory o žádosti Úřadu tak, že nahrazuje souhlas zástupce komory, ve lhůtě 30 dnů ode dne doručení žádosti zástupcem komory, lze souhlas zástupce komory nahradit na návrh Úřadu rozhodnutím soudu podle zákona o zvláštních řízeních soudních.*
 >
-> *(4) Úřad vyloučí z nahlížení do spisu informace, které jsou obchodním, bankovním nebo jiným obdobným zákonem chráněným tajemstvím, informace, které požívají autorskoprávní ochrany, a informace podle odstavce 1 věty druhé nebo odstavce 2, pokud do spisu umožní nahlédnout osobě odlišné od osoby, od níž byly tyto informace získány. V řízení o uložení povinnosti Úřad zpřístupní účastníkovi řízení informace vyloučené podle věty první, pokud jimi byl nebo bude proveden důkaz. […]*
+> *(3) S informacemi chráněnými povinností mlčenlivosti podle zákona o daňovém poradenství a Komoře daňových poradců České republiky je Úřad oprávněn se seznamovat pouze za přítomnosti a se souhlasem zástupce Komory daňových poradců České republiky, kterého ustanoví prezident Komory daňových poradců České republiky z řad jejích zaměstnanců nebo z řad daňových poradců. Odmítne-li zástupce Komory daňových poradců České republiky souhlas udělit, bezodkladně zajistí na písemnou žádost Úřadu důvěrnost a neporušenost informací podle věty první a bezodkladně předá dozorčí komisi Komory daňových poradců České republiky písemnou žádost Úřadu o nahrazení souhlasu zástupce Komory daňových poradců České republiky rozhodnutím dozorčí komise Komory daňových poradců České republiky. Nerozhodne-li dozorčí komise Komory daňových poradců České republiky o žádosti Úřadu tak, že nahrazuje souhlas zástupce Komory daňových poradců České republiky, ve lhůtě 30 dnů ode dne doručení žádosti zástupcem Komory daňových poradců České republiky, lze souhlas zástupce Komory daňových poradců České republiky nahradit na návrh Úřadu rozhodnutím soudu podle zákona o zvláštních řízeních soudních.*
+>
+> *(4) Úřad vyloučí z nahlížení do spisu informace, které jsou obchodním, bankovním nebo jiným obdobným zákonem chráněným tajemstvím, informace, které požívají autorskoprávní ochrany, a informace podle odstavce 1 věty druhé nebo odstavce 2, pokud do spisu umožní nahlédnout osobě odlišné od osoby, od níž byly tyto informace získány. V řízení o uložení povinnosti Úřad zpřístupní účastníkovi řízení informace vyloučené podle věty první, pokud jimi byl nebo bude proveden důkaz. Před zpřístupněním informace musí být účastník řízení nebo jeho zástupce poučen o ochraně, kterou informace požívá; o poučení se sepíše protokol. Právo na přístup k takovým informacím nezahrnuje právo činit si výpisy nebo právo na pořízení kopií informací.*
 >
 > *(5) Odstavcem 1 není dotčena povinnost kontrolujícího prokázat oprávnění k přístupu k utajované informaci.*
 
@@ -276,7 +277,95 @@ Praktický dopad je zásadní: státní orgány, obce, kraje, státní podnikate
 ### § 63 — Přestupky při trestněprávním zpracování (hlava III)
 
 > **§ 63**
-> *(1) Právnická osoba se dopustí přestupku tím, že při zpracování osobních údajů [v rozsahu povinností podle hlavy III, § 25–42] …*
+>
+> *(1) Právnická osoba se dopustí přestupku tím, že při zpracování osobních údajů*
+>
+> *- a) v rozporu s § 25 odst. 1 písm. a) nestanoví účel zpracování osobních údajů nebo stanoveným účelem zpracování osobních údajů poruší povinnost nebo překročí oprávnění vyplývající z jiného zákona,*
+>
+> *- b) v rozporu s § 25 odst. 1 písm. b) nepřijme opatření zajišťující, aby osobní údaje byly přesné ve vztahu k povaze a účelu jejich zpracování,*
+>
+> *- c) v rozporu s § 25 odst. 1 písm. c) uchovává osobní údaje po dobu delší než nezbytnou k dosažení účelu jejich zpracování,*
+>
+> *- d) v rozporu s § 27 neposkytne subjektu údajů informace v rozsahu nebo zákonem stanoveným způsobem,*
+>
+> *- e) v rozporu s § 28 odst. 2 nevyhoví žádosti subjektu údajů uvedené v § 28 odst. 1,*
+>
+> *- f) v rozporu s § 29 odst. 5 nevyhoví žádosti subjektu údajů uvedené v § 29 odst. 1 nebo 2,*
+>
+> *- g) v rozporu s § 32 odst. 1 až 3 nepřijme technická a organizační opatření nebo nevede jejich dokumentaci,*
+>
+> *- h) v rozporu s § 32 odst. 4 nevede písemné přehledy o všech typových činnostech zpracování osobních údajů,*
+>
+> *- i) v rozporu s § 36 odst. 1 nepořizuje záznamy,*
+>
+> *- j) v rozporu s § 36 odst. 3 využije záznamy k jinému účelu,*
+>
+> *- k) v rozporu s § 37 neprovede posouzení vlivu na ochranu osobních údajů,*
+>
+> *- l) v rozporu s § 38 odst. 1 nepožádá Úřad o projednání připravovaného zpracování osobních údajů,*
+>
+> *- m) v rozporu s § 39 zasáhne do práv a právem chráněných zájmů subjektu údajů nebo způsobí jiný obdobně závažný následek pro subjekt údajů,*
+>
+> *- n) v rozporu s § 40 odst. 1 nepřijme organizační a technická opatření k zajištění odpovídající úrovně zabezpečení osobních údajů,*
+>
+> *- o) v rozporu s § 40 odst. 2 nepřijme nezbytná opatření,*
+>
+> *- p) v rozporu s § 41 odst. 1 neohlásí porušení zabezpečení osobních údajů Úřadu,*
+>
+> *- q) v rozporu s § 42 odst. 1 neoznámí porušení zabezpečení osobních údajů subjektu údajů,*
+>
+> *- r) neprovede uložené opatření k nápravě ve lhůtě stanovené Úřadem,*
+>
+> *- s) poruší omezení zpracování zvláštních kategorií osobních údajů podle jiného právního předpisu5),*
+>
+> *- t) poruší povinnost jmenovat pověřence podle jiného právního předpisu5),*
+>
+> *- u) poruší povinnost informovat o nesprávném předání nebo o předání nepřesných osobních údajů podle § 32 odst. 5 nebo podle jiného právního předpisu5),*
+>
+> *- v) poruší některou z podmínek podle jiného právního předpisu5) pro předání osobních údajů do mezinárodní organizace nebo státu, který neuplatňuje právní předpisy k provedení směrnice Evropského parlamentu a Rady (EU) 2016/680, nebo*
+>
+> *- w) poruší povinnost prověřovat potřebnost dalšího zpracování nebo vymazat osobní údaje podle jiného právního předpisu5).*
+>
+> *(2) Právnická osoba se dále dopustí přestupku tím, že*
+>
+> *- a) v rozporu s § 39a odst. 4 nepředloží zprávu o použití izolovaného systému,*
+>
+> *- b) v rozporu s rozhodnutím o povolení používání izolovaného systému podle § 39b odst. 6 nedodrží při použití izolovaného systému jeho územní vymezení, časové období použití nebo kategorie fyzických osob,*
+>
+> *- c) v rozporu s § 39b odst. 9 neoznámí zařazení konkrétní osoby do referenční databáze nebo takovou osobu z referenční databáze nevyřadí,*
+>
+> *- d) v rozporu s § 39c odst. 2 nepožádá o povolení do 24 hodin nebo neukončí použití izolovaného systému nebo dotčené údaje a záznamy nezničí, nebo*
+>
+> *- e) v rozporu s rozhodnutím o povolení k použití izolovaného systému podle § 39c odst. 6 nedodrží časové období použití nebo omezení na konkrétní fyzickou osobu.*
+>
+> *(3) Přestupku se dopustí ten, kdo při zpracování osobních údajů*
+>
+> *- a) v rozporu s § 34 odst. 4 nevede přehledy o všech typových činnostech zpracování osobních údajů,*
+>
+> *- b) v rozporu s § 34 odst. 5 neoznámí spravujícímu orgánu porušení zabezpečení osobních údajů,*
+>
+> *- c) v rozporu s § 35 nezpracovává osobní údaje pouze podle pokynů spravujícího orgánu nebo podle zákona,*
+>
+> *- d) v rozporu s § 36 odst. 1 nepořizuje záznamy,*
+>
+> *- e) v rozporu s § 36 odst. 3 využije záznamy k jinému účelu,*
+>
+> *- f) v rozporu s § 40 odst. 1 nepřijme organizační a technická opatření k zajištění odpovídající úrovně zabezpečení osobních údajů,*
+>
+> *- g) v rozporu s § 40 odst. 2 nepřijme nezbytná opatření,*
+>
+> *- h) neprovede uložené opatření k nápravě ve lhůtě stanovené Úřadem,*
+>
+> *- i) poruší omezení zpracování zvláštních kategorií osobních údajů podle jiného právního předpisu5),*
+>
+> *- j) poruší povinnost jmenovat pověřence podle jiného právního předpisu5),*
+>
+> *- k) poruší povinnost informovat o nesprávném předání nebo o předání nepřesných osobních údajů podle § 32 odst. 5 nebo podle jiného právního předpisu5),*
+>
+> *- l) poruší některou z podmínek podle jiného právního předpisu5) pro předání osobních údajů do mezinárodní organizace nebo státu, který neuplatňuje právní předpisy k provedení směrnice Evropského parlamentu a Rady (EU) 2016/680, nebo*
+>
+> *- m) poruší povinnost prověřovat potřebnost dalšího zpracování nebo vymazat osobní údaje podle jiného právního předpisu5).*
+>
 > *(4) Za přestupek podle odstavců 1 až 3 lze uložit pokutu do 10 000 000 Kč.*
 
 **Výklad:** § 63 buduje sankční systém pro oblast trestněprávního zpracování (transpozice směrnice 2016/680), kde čl. 83 GDPR neplatí. Skutkové podstaty v odst. 1 (pro správce-právnické osoby) a odst. 3 (pro zpracovatele) systematicky pokrývají celou hlavu III: povinnosti účelu, přesnosti a doby uchování (§ 25), práva subjektů údajů (§§ 27–29), záznamy a posouzení vlivu (§§ 36–38), zabezpečení a hlášení porušení (§§ 40–42), specifika izolovaných systémů (§§ 39a–39c). Odstavec 2 postihuje specifické povinnosti spojené s biometrickými izolovanými systémy, jejichž provozování orgány veřejné moci je zvlášť regulováno.
@@ -339,10 +428,58 @@ Horní hranice pokuty 10 000 000 Kč (odst. 4) je výrazně nižší než sankce
 ### § 67 — Zrušovací ustanovení
 
 > **§ 67**
+>
 > *Zrušují se:*
-> *1. Zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů.*
-> *2. Zákon č. 177/2001 Sb., kterým se mění zákon č. 101/2000 Sb. […]*
-> *[body 3–25: jednotlivé novely zákona č. 101/2000 Sb. a navazující části jiných zákonů]*
+>
+> *- 1. Zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů.*
+>
+> *- 2. Zákon č. 177/2001 Sb., kterým se mění zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů, ve znění zákona č. 227/2000 Sb., a zákon č. 65/1965 Sb., zákoník práce, ve znění pozdějších předpisů.*
+>
+> *- 3. Část šestá zákona č. 450/2001 Sb., kterým se mění zákon č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, zákon č. 129/2000 Sb., o krajích (krajské zřízení), ve znění pozdějších předpisů, zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, zákon č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů, ve znění zákona č. 320/2001 Sb., zákon č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů, a zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů, ve znění pozdějších předpisů.*
+>
+> *- 4. Část čtvrtá zákona č. 107/2002 Sb., kterým se mění zákon č. 140/1996 Sb., o zpřístupnění svazků vzniklých činností bývalé Státní bezpečnosti, a některé další zákony.*
+>
+> *- 5. Část druhá zákona č. 310/2002 Sb., kterým se mění zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů, ve znění pozdějších předpisů, zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů, ve znění pozdějších předpisů, zákon č. 18/1997 Sb., o mírovém využití jaderné energie a ionizujícího záření (atomový zákon) a o změně a doplnění některých zákonů, ve znění pozdějších předpisů, zákon č. 38/1994 Sb., o zahraničním obchodu s vojenským materiálem a o doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, a zákona č. 140/1961 Sb., trestní zákon, ve znění pozdějších předpisů, zákon č. 283/1993 Sb., o státním zastupitelství, ve znění pozdějších předpisů, a zákon č. 42/1992 Sb., o úpravě majetkových vztahů a vypořádání majetkových nároků v družstvech, ve znění pozdějších předpisů.*
+>
+> *- 6. Část devátá zákona č. 517/2002 Sb., kterým se provádějí některá opatření v soustavě ústředních orgánů státní správy a mění některé zákony.*
+>
+> *- 7. Část první zákona č. 439/2004 Sb., kterým se mění zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů, ve znění pozdějších předpisů.*
+>
+> *- 8. Část čtvrtá zákona č. 480/2004 Sb., o některých službách informační společnosti a o změně některých zákonů (zákon o některých službách informační společnosti).*
+>
+> *- 9. Část šestá zákona č. 626/2004 Sb., o změně některých zákonů v návaznosti na realizaci reformy veřejných financí v oblasti odměňování.*
+>
+> *- 10. Část čtyřicátá zákona č. 413/2005 Sb., o změně zákonů v souvislosti s přijetím zákona o ochraně utajovaných informací a o bezpečnostní způsobilosti.*
+>
+> *- 11. Část jedenáctá zákona č. 109/2006 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o sociálních službách.*
+>
+> *- 12. Část dvacátá zákona č. 264/2006 Sb., kterým se mění některé zákony v souvislosti s přijetím zákoníku práce.*
+>
+> *- 13. Část třicátá šestá zákona č. 342/2006 Sb., kterým se mění některé zákony související s oblastí evidence obyvatel a některé další zákony.*
+>
+> *- 14. Část třináctá zákona č. 170/2007 Sb., kterým se mění některé zákony v souvislosti se vstupem České republiky do schengenského prostoru.*
+>
+> *- 15. Část šedesátá pátá zákona č. 41/2009 Sb., o změně některých zákonů v souvislosti s přijetím trestního zákoníku.*
+>
+> *- 16. Část třetí zákona č. 52/2009 Sb., kterým se mění zákon č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů, a některé další zákony.*
+>
+> *- 17. Část osmdesátá osmá zákona č. 227/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o základních registrech.*
+>
+> *- 18. Část šedesátá pátá zákona č. 281/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím daňového řádu.*
+>
+> *- 19. Část čtyřicátá šestá zákona č. 375/2011 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o zdravotních službách, zákona o specifických zdravotních službách a zákona o zdravotnické záchranné službě.*
+>
+> *- 20. Část čtvrtá zákona č. 468/2011 Sb., kterým se mění zákon č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění pozdějších předpisů, a některé další zákony.*
+>
+> *- 21. Část dvacátá devátá zákona č. 64/2014 Sb., kterým se mění některé zákony v souvislosti s přijetím kontrolního řádu.*
+>
+> *- 22. Část dvacátá devátá zákona č. 250/2014 Sb., o změně zákonů souvisejících s přijetím zákona o státní službě.*
+>
+> *- 23. Část šestá zákona č. 301/2016 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o centrální evidenci účtů.*
+>
+> *- 24. Část osmdesátá druhá zákona č. 183/2017 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o odpovědnosti za přestupky a řízení o nich a zákona o některých přestupcích.*
+>
+> *- 25. Nařízení vlády č. 277/2011 Sb., o stanovení vzoru průkazu kontrolujícího Úřadu pro ochranu osobních údajů.*
 
 **Výklad:** § 67 formálně uzavírá éru zákona č. 101/2000 Sb. — klíčového nástroje české ochrany osobních údajů z doby implementace směrnice 95/46/ES. Zákon č. 101/2000 Sb. platil dvě desetiletí a vytvořil základy institucí a praxe, na nichž zákon č. 110/2019 Sb. navazuje: zejm. Úřad pro ochranu osobních údajů jako instituce nebyl zrušen a znovu zřízen, nýbrž zachován s modernizovanou organizační strukturou.
 

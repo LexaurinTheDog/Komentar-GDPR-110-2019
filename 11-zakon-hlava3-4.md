@@ -476,32 +476,53 @@ Povinnost předkládat zprávy o použití systému Úřadu do 72 hodin (odst. 4
 
 ### § 39b — Povolení používání izolovaného systému
 
-> **§ 39b odst. 1**
-> *Izolovaný systém lze používat pro identifikaci fyzických osob,*
+> **§ 39b**
 >
-> *a) u kterých jsou v okamžiku zařazení do referenční databáze splněny všechny podmínky pro omezení osobní svobody podle právních předpisů upravujících trestní řízení, pokud jsou*
+> *(1) Izolovaný systém lze používat pro identifikaci fyzických osob,*
 >
-> *1. podezřelé, obviněné nebo obžalované ze spáchání některého z trestných činů uvedených v příloze II nařízení Evropského parlamentu a Rady (EU) 2024/1689, pokud za něj trestní zákoník stanoví trest odnětí svobody s horní hranicí trestní sazby nejméně 4 roky, nebo odsouzené za takový trestný čin, nebo*
+> *- a) u kterých jsou v okamžiku zařazení do referenční databáze splněny všechny podmínky pro omezení osobní svobody podle právních předpisů upravujících trestní řízení11), pokud jsou*
 >
-> *2. podezřelé, obviněné nebo obžalované ze spáchání trestného činu neuvedeného v bodě 1, pokud je důvodná obava, že by dokonáním, vykonáním nebo opakováním takového trestného činu způsobily ublížení na zdraví, těžkou újmu na zdraví nebo smrt, nebo*
+> *- 1. podezřelé, obviněné nebo obžalované ze spáchání některého z trestných činů uvedených v příloze II nařízení Evropského parlamentu a Rady (EU) 2024/1689, pokud za něj trestní zákoník stanoví trest odnětí svobody s horní hranicí trestní sazby nejméně 4 roky, nebo odsouzené za takový trestný čin, nebo*
 >
-> *b) po kterých bylo vyhlášeno pátrání a*
+> *- 2. podezřelé, obviněné nebo obžalované ze spáchání trestného činu neuvedeného v bodě 1, pokud je důvodná obava, že by dokonáním, vykonáním nebo opakováním takového trestného činu způsobily ublížení na zdraví, těžkou újmu na zdraví nebo smrt, nebo*
 >
-> *1. lze se důvodně domnívat, že je ohrožen jejich život nebo zdraví, nebo*
+> *- b) po kterých bylo vyhlášeno pátrání a*
 >
-> *2. u kterých jsou v okamžiku zařazení do referenční databáze splněny všechny zákonné podmínky pro omezení osobní svobody, s výjimkou osob, u kterých takové podmínky souvisejí s podezřením, obviněním nebo obžalobou ze spáchání trestného činu nebo s odsouzením za trestný čin.*
-
-> **§ 39b odst. 2**
-> *Spravující orgán může používat izolovaný systém podle odstavce 1 jen po předchozím písemném povolení předsedy senátu vrchního soudu příslušného podle sídla spravujícího orgánu (dále jen „příslušný soudce").*
-
-> **§ 39b odst. 4**
-> *(Výběr) Příslušný soudce vydá rozhodnutí o žádosti o povolení používání izolovaného systému do 30 dnů ode dne podání úplné žádosti.*
-
-> **§ 39b odst. 8**
-> *Používání izolovaného systému lze povolit nejdéle na 12 měsíců. Tuto dobu lze na žádost prodloužit vždy nejdéle na dalších 12 měsíců, a to i opakovaně.*
-
-> **§ 39b odst. 9**
-> *Spravující orgán oznámí pověřenci zařazení biometrických údajů každé konkrétní osoby do referenční databáze do 24 hodin od zařazení. Pokud pověřenec s takovým zařazením nesouhlasí, je spravující orgán povinen konkrétní osobu z referenční databáze vyřadit.*
+> *- 1. lze se důvodně domnívat, že je ohrožen jejich život nebo zdraví, nebo*
+>
+> *- 2. u kterých jsou v okamžiku zařazení do referenční databáze splněny všechny zákonné podmínky pro omezení osobní svobody, s výjimkou osob, u kterých takové podmínky souvisejí s podezřením, obviněním nebo obžalobou ze spáchání trestného činu nebo s odsouzením za trestný čin.*
+>
+> *(2) Spravující orgán může používat izolovaný systém podle odstavce 1 jen po předchozím písemném povolení předsedy senátu vrchního soudu příslušného podle sídla spravujícího orgánu (dále jen „příslušný soudce“).*
+>
+> *(3) Rozhodnutí o povolení používání izolovaného systému vydává příslušný soudce na základě písemné odůvodněné žádosti, která obsahuje*
+>
+> *- a) označení spravujícího orgánu, adresu sídla nebo jinou adresu pro doručování,*
+>
+> *- b) přesné územní vymezení prostoru nebo všech územně oddělených součástí, ve kterých má být izolovaný systém používán,*
+>
+> *- c) časové období, po které má být izolovaný systém používán,*
+>
+> *- d) kategorie fyzických osob, které mají být zařazovány do referenční databáze izolovaného systému,*
+>
+> *- e) jméno, příjmení a kontaktní údaje pověřence, který je pověřen dohledem nad referenční databází,*
+>
+> *- f) shrnutí posouzení vlivu izolovaného systému na základní práva podle čl. 27 nařízení Evropského parlamentu a Rady (EU) 2024/1689,*
+>
+> *- g) potvrzení o tom, že spravující orgán provedl registraci podle čl. 49 nařízení Evropského parlamentu a Rady (EU) 2024/1689, ledaže je používání ze závažných naléhavých důvodů potřebné zahájit před provedením registrace, a*
+>
+> *- h) informaci o zařazování osob do referenční databáze, pokud byl izolovaný systém používán v předcházejícím období.*
+>
+> *(4) Nemá-li žádost náležitosti podle odstavce 3 nebo trpí-li jinými vadami, vyzve příslušný soudce žadatele k jejich odstranění a poskytne mu k tomu přiměřenou lhůtu. Příslušný soudce vydá rozhodnutí o žádosti o povolení používání izolovaného systému do 30 dnů ode dne podání úplné žádosti.*
+>
+> *(5) Při rozhodování o žádosti o povolení používání izolovaného systému příslušný soudce posoudí důvody pro používání izolovaného systému, jakož i to, zda je používání izolovaného systému nezbytné a přiměřené k dosažení cíle uvedeného v § 39a odst. 3 a zda je omezeno na nezbytně nutný územní rozsah a dobu, po kterou bude používání izolovaného systému trvat. Příslušný soudce rovněž vezme v úvahu závažnost, pravděpodobnost a rozsah újmy, ke které by mohlo dojít v případě, že k používání izolovaného systému nedojde, jakož i důsledky používání izolovaného systému pro práva a svobody všech dotčených osob, zejména závažnost, pravděpodobnost a rozsah těchto důsledků.*
+>
+> *(6) Rozhodnutí o žádosti o povolení používání izolovaného systému obsahuje označení žadatele, výrok, zda se používání izolovaného systému povoluje, povoluje částečně nebo nepovoluje, a odůvodnění. Rozhodnutí o povolení nebo částečném povolení izolovaného systému musí obsahovat vymezení izolovaného systému podle hledisek uvedených v odstavci 3 písm. b) až d).*
+>
+> *(7) Účastníkem řízení o žádosti o povolení používání izolovaného systému je pouze žadatel. Proti rozhodnutí o žádosti o povolení používání izolovaného systému není přípustný opravný prostředek. Na rozhodování o žádosti o povolení používání izolovaného systému se správní řád nepoužije.*
+>
+> *(8) Používání izolovaného systému lze povolit nejdéle na 12 měsíců. Tuto dobu lze na žádost prodloužit vždy nejdéle na dalších 12 měsíců, a to i opakovaně; odstavce 3 až 7 se použijí obdobně.*
+>
+> *(9) Spravující orgán oznámí pověřenci zařazení biometrických údajů každé konkrétní osoby do referenční databáze do 24 hodin od zařazení. Pokud pověřenec s takovým zařazením nesouhlasí, je spravující orgán povinen konkrétní osobu z referenční databáze vyřadit.*
 
 **Výklad:** Paragraf 39b zavádí **systém soudního povolování** (judicial authorisation) pro provoz izolovaného systému — jde o klíčovou záruční konstrukci vůči riziku zneužití RTBID. Zákon vyžaduje předchozí souhlas **předsedy senátu vrchního soudu** příslušného podle sídla spravujícího orgánu (odst. 2), nikoli obecný souhlas jakéhokoli soudu. Volba vrchního soudu odráží závažnost biometrické identifikace a vědomé rozhodnutí zákonodárce svěřit povolování vyšší soudní instanci s předpokládanou specializovanou kapacitou.
 
@@ -513,14 +534,31 @@ Podmínky pro zařazení osob do referenční databáze (odst. 1) jsou přísně
 
 ### § 39c — Identifikace konkrétní osoby mimo referenční databázi
 
-> **§ 39c odst. 1**
-> *Izolovaný systém, jehož používání bylo povoleno podle § 39b, může spravující orgán použít také pro identifikaci konkrétní fyzické osoby, která nespadá do kategorie fyzických osob uvedené v § 39b odst. 1, pokud je to nezbytné pro dosažení cíle uvedeného v § 39a odst. 3.*
-
-> **§ 39c odst. 2**
-> *Izolovaný systém lze použít podle odstavce 1 jen po předchozím písemném povolení příslušného soudce. Nesnese-li věc odkladu, lze izolovaný systém použít podle odstavce 1 i bez povolení. Spravující orgán je však povinen o povolení požádat do 24 hodin od okamžiku použití izolovaného systému, a pokud je neobdrží, je povinen použití izolovaného systému podle odstavce 1 ukončit a dotčené údaje a záznamy zničit.*
-
-> **§ 39c odst. 4**
-> *(Výběr) Příslušný soudce vydá rozhodnutí o žádosti o povolení k použití izolovaného systému podle odstavce 1 do 72 hodin od podání úplné žádosti.*
+> **§ 39c**
+>
+> *(1) Izolovaný systém, jehož používání bylo povoleno podle § 39b, může spravující orgán použít také pro identifikaci konkrétní fyzické osoby, která nespadá do kategorie fyzických osob uvedené v § 39b odst. 1, pokud je to nezbytné pro dosažení cíle uvedeného v § 39a odst. 3.*
+>
+> *(2) Izolovaný systém lze použít podle odstavce 1 jen po předchozím písemném povolení příslušného soudce. Nesnese-li věc odkladu, lze izolovaný systém použít podle odstavce 1 i bez povolení. Spravující orgán je však povinen o povolení požádat do 24 hodin od okamžiku použití izolovaného systému, a pokud je neobdrží, je povinen použití izolovaného systému podle odstavce 1 ukončit a dotčené údaje a záznamy zničit.*
+>
+> *(3) Rozhodnutí o povolení k použití izolovaného systému podle odstavce 1 vydává příslušný soudce na základě písemné odůvodněné žádosti, která obsahuje*
+>
+> *- a) označení spravujícího orgánu, adresu sídla nebo jinou adresu pro doručování,*
+>
+> *- b) odůvodnění zařazení biometrických údajů konkrétní fyzické osoby do referenční databáze izolovaného systému, včetně odůvodnění cíle uvedeného v § 39a odst. 3, kterého má být zařazením této osoby do referenční databáze dosaženo,*
+>
+> *- c) časové období, po které má být izolovaný systém vůči konkrétní fyzické osobě použit, a*
+>
+> *- d) informaci o jakékoli předchozí žádosti o použití izolovaného systému vůči konkrétní fyzické osobě, včetně informace, jak bylo o této žádosti rozhodnuto.*
+>
+> *(4) Nemá-li žádost náležitosti podle odstavce 3 nebo trpí-li jinými vadami, vyzve příslušný soudce žadatele k jejich odstranění a poskytne mu k tomu přiměřenou lhůtu. Příslušný soudce vydá rozhodnutí o žádosti o povolení k použití izolovaného systému podle odstavce 1 do 72 hodin od podání úplné žádosti.*
+>
+> *(5) Při rozhodování o žádosti o povolení k použití izolovaného systému podle odstavce 1 příslušný soudce posoudí důvody pro použití izolovaného systému podle odstavce 1, jakož i to, zda je takové použití izolovaného systému nezbytné a přiměřené k dosažení cíle uvedeného v § 39a odst. 3 a zda je omezeno na nezbytně nutnou dobu. Příslušný soudce rovněž vezme v úvahu závažnost, pravděpodobnost a rozsah újmy, ke které by mohlo dojít v případě, že k použití izolovaného systému podle odstavce 1 nedojde, jakož i důsledky pro práva a svobody všech dotčených osob, zejména závažnost, pravděpodobnost a rozsah těchto důsledků.*
+>
+> *(6) Rozhodnutí o žádosti o povolení k použití izolovaného systému podle odstavce 1 obsahuje označení žadatele, výrok, zda se použití izolovaného systému podle odstavce 1 povoluje, povoluje částečně nebo nepovoluje, a odůvodnění. Rozhodnutí o povolení nebo částečném povolení k použití izolovaného systému podle odstavce 1 musí obsahovat časové období, po které může být izolovaný systém použit podle odstavce 1, a určení konkrétní fyzické osoby, pro jejíž identifikaci lze izolovaný systém použít podle odstavce 1.*
+>
+> *(7) Účastníkem řízení o žádosti o povolení k použití izolovaného systému podle odstavce 1 je pouze žadatel. Proti rozhodnutí o žádosti o povolení k použití izolovaného systému podle odstavce 1 není přípustný opravný prostředek. Na rozhodování o žádosti o povolení k použití izolovaného systému podle odstavce 1 se správní řád nepoužije.*
+>
+> *(8) Použití izolovaného systému podle odstavce 1 lze povolit nejdéle na 12 měsíců. Tuto dobu lze na žádost prodloužit vždy nejdéle na dalších 12 měsíců, a to i opakovaně; odstavce 3 až 7 se použijí obdobně.*
 
 **Výklad:** Paragraf 39c upravuje **urgentní použití** izolovaného systému mimo referenční databázi — situaci, kdy spravující orgán potřebuje identifikovat konkrétní osobu, která nesplňuje podmínky pro zařazení do referenční databáze dle § 39b, avšak dosažení cíle dle § 39a odst. 3 to nezbytně vyžaduje (typicky akutní pátrání po bezprostředně ohroženém dítěti).
 
