@@ -11,6 +11,43 @@ Kapitola V GDPR (čl. 44–50) zavádí ucelený, hierarchicky strukturovaný sy
 
 **Výklad:** Článek 44 plní funkci obecné uzavírací klauzule pro celou kapitolu: předávání osobních údajů do třetí země nebo mezinárodní organizaci je podmíněno tím, že jsou splněny podmínky jednoho z titulů stanovených v čl. 45–49. Klíčovým pojmem je „předávání" (*transfer*), které GDPR nedefinuje výslovně, avšak judikatura Soudního dvora EU i stanoviska Evropského sboru pro ochranu osobních údajů (EDPB) vykládají tento pojem funkčně: zahrnuje jakékoli zpřístupnění nebo zpřístupnitelnost dat subjektu mimo EHP, ať již formou aktivního přenosu, či pasivního vzdáleného přístupu. Zásadní je také výslovný záchyt *dalšího předávání* (*onward transfer*): přijme-li třetí země data a hodlá je dále předat do jiné třetí země nebo mezinárodní organizaci, musí být i toto navazující předání pokryto vhodným titulem. Tím se uzavírá potenciální obcházení ochrany skrze „bezpečné tranzitní země". Recitál 101 zdůrazňuje, že pohyb dat mimo Unii nesmí vést ke snížení úrovně ochrany garantované nařízením — jde o tzv. princip ekvivalence. Pokud správce nebo zpracovatel nesplní podmínky kapitoly V, porušuje nejen čl. 44, ale zpravidla i příslušný konkrétní článek (čl. 46, 47, 49), na jehož titul se odvolával.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Česká společnost (správce) využívá cloudové úložiště provozované poskytovatelem se servery v třetí zemi a navíc tento poskytovatel data dále zrcadlí do jiné třetí země. Společnost se domnívá, že stačí smlouva o službě a o žádný titul kapitoly V se nestará. Důkazy: lokalizace serverů, popis dalšího předání (onward transfer), existence titulu předání, posouzení dopadu.
+
+**2. Právní otázka.** Splnila společnost obecnou zásadu pro předávání dle čl. 44, včetně pokrytí dalšího předání vhodným titulem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 44 (uzavírací klauzule, nutnost titulu, pokrytí onward transfer, princip ekvivalence).
+- *Související ustanovení téhož zákona:* čl. 45 (adekvátnost), čl. 46 (záruky), čl. 49 (výjimky), čl. 5.
+- *Související předpisy:* recitál 101; ZZOÚ (bez zvláštní úpravy předávání).
+- *Judikatura:* SDEU Schrems II — funkční pojetí předání a nutnost reálné ekvivalence.
+
+**4. Subsumpce.** Uložení dat na servery v třetí zemi i jejich zrcadlení jsou předáním. Každé předání (vč. dalšího) vyžaduje titul dle čl. 45–49. Pouhá smlouva o službě titulem není → porušení čl. 44.
+
+**5. Řešení.** Společnost musí zvolit a doložit titul (adekvátnost / SCC / BCR / výjimka) pokrývající i onward transfer a případně přijmout dodatečná opatření. Procesně: TIA, sjednání SCC, šifrování. Bez titulu je předání nezákonné.
+
+**6. Varianty.** (a) Pokud by se servery nacházely v zemi s rozhodnutím o adekvátnosti, postačil by čl. 45. (b) Pokud by data byla skutečně anonymizována, nešlo by o předání osobních údajů.
+
+#### G. Protiargumenty a rizika
+
+- *„Smlouva o cloudu stačí."* Smlouva o službě není titulem předání; nutný je titul dle kapitoly V.
+- *„Onward transfer nás neřeší."* Čl. 44 výslovně pokrývá i další předání; bez titulu je nezákonné.
+- *Slabé místo:* pojem „předání" není definován; rozhoduje funkční výklad (zpřístupnění mimo EHP), což může být sporné u pouhého vzdáleného přístupu.
+
+#### H. Praktický závěr
+
+Každé předání osobních údajů mimo EHP — včetně dalšího předání — musí být kryto některým titulem kapitoly V a nesmí snížit úroveň ochrany; smlouva o službě sama titulem není.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Dochází k předání/zpřístupnění mimo EHP (funkční výklad)?
+- [ ] Je zvolen a doložen titul dle čl. 45–49?
+- [ ] Je pokryto i další předání (onward transfer)?
+- [ ] Nesnižuje předání úroveň ochrany (princip ekvivalence)?
+- [ ] Bylo provedeno posouzení dopadu (TIA), je-li třeba?
+
+**Typicky rozhodné důkazy / podklady:** mapa toků dat a lokalizace serverů, popis dalších předání, dokumentace titulu předání, TIA, dodatečná opatření.
+
 ---
 
 ### Čl. 45 — Předávání na základě rozhodnutí o odpovídající ochraně
@@ -52,6 +89,42 @@ Historicky nejvýznamnějším předmětem judikatury SDEU v oblasti předáván
 
 V návaznosti na věc *Schrems II* přijaly USA a EU v roce 2022–2023 nový rámec — EU-US Data Privacy Framework (DPF). Komise přijala odpovídající rozhodnutí o odpovídající ochraně pro přenosy do organizací certifikovaných podle DPF. Tento rámec zavedl mechanismus soudní ochrany pro subjekty údajů z EU (Data Protection Review Court) s cílem odstranit námitky vytčené v *Schrems II*. Platnost tohoto rozhodnutí je opět předmětem diskuse a soudního přezkumu před SDEU. Odst. 3 výslovně ukládá povinný přezkum každé čtyři roky, odst. 4–5 pak umožňují pozastavení nebo zrušení rozhodnutí bez retroaktivního účinku (předávání uskutečněná za platnosti rozhodnutí nejsou zpětně protiprávní), avšak od okamžiku zrušení je třeba přejít na jiný titul. ZZOÚ nepřebírá a nedoplňuje tento mechanismus žádnými zvláštními pravidly; ÚOOÚ jako český dozorový úřad je zapojen prostřednictvím EDPB do procesu vydávání stanovisek k návrhu rozhodnutí (čl. 40 a násl. jednacího řádu EDPB).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Marketingová společnost (správce) předává data zákazníků do USA poskytovateli, který je certifikován v rámci EU-US Data Privacy Framework (DPF). Spoléhá výhradně na rozhodnutí o adekvátnosti, aniž ověřila, že příjemce je skutečně aktivně certifikován a že předání spadá do rozsahu rozhodnutí. Důkazy: doklad o aktivní certifikaci příjemce v DPF, rozsah rozhodnutí o adekvátnosti, kontrola statusu certifikace.
+
+**2. Právní otázka.** Lze předání do USA opřít o rozhodnutí o adekvátnosti dle čl. 45 a jaké podmínky musí být splněny?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 45 odst. 1 (adekvátnost bez zvláštního povolení), odst. 3 (přezkum), odst. 5 (pozastavení/zrušení).
+- *Související ustanovení téhož zákona:* čl. 44, čl. 46 (záložní titul), čl. 49.
+- *Související předpisy:* rozhodnutí Komise o EU-US DPF; recitál 103.
+- *Judikatura:* SDEU Schrems I a II — zrušení Safe Harbour a Privacy Shield; standard essential equivalence.
+
+**4. Subsumpce.** Adekvátnost u DPF platí jen pro příjemce aktivně certifikované a v rozsahu rozhodnutí. Spoléhání bez ověření aktivní certifikace je rizikové; je-li příjemce necertifikovaný, titul chybí. Při zrušení rozhodnutí (riziko Schrems III) je nutný záložní titul (čl. 46).
+
+**5. Řešení.** Správce ověří aktivní certifikaci příjemce a soulad předání s rozsahem rozhodnutí; připraví záložní titul (SCC) pro případ zrušení. Procesně: kontrola statusu DPF, monitoring vývoje.
+
+**6. Varianty.** (a) Při necertifikovaném příjemci je nutné předání opřít o čl. 46 (SCC + dodatečná opatření). (b) Při pozastavení rozhodnutí (odst. 5) je třeba přejít na jiný titul od okamžiku zrušení (bez retroaktivity).
+
+#### G. Protiargumenty a rizika
+
+- *„DPF kryje všechny přenosy do USA."* Kryje jen aktivně certifikované příjemce v rozsahu rozhodnutí; ostatní vyžadují čl. 46/49.
+- *„Adekvátnost je trvalá."* Rozhodnutí podléhá přezkumu a může být zrušeno (Schrems I, II); nutná příprava záložního titulu.
+- *Slabé místo:* stabilita rozhodnutí o adekvátnosti USA je nejistá; spoléhání jen na ně bez zálohy je rizikové.
+
+#### H. Praktický závěr
+
+Adekvátnost je nejpohodlnější titul, ale jen v rozsahu a po dobu platnosti rozhodnutí a u skutečně certifikovaných příjemců; vždy měj připravený záložní titul pro případ zrušení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vztahuje se rozhodnutí o adekvátnosti na cílovou zemi/odvětví/příjemce?
+- [ ] Je příjemce (u DPF) aktivně certifikován a v rozsahu rozhodnutí?
+- [ ] Je sledován vývoj a platnost rozhodnutí (odst. 3, 5)?
+- [ ] Je připraven záložní titul (SCC) pro případ zrušení?
+
+**Typicky rozhodné důkazy / podklady:** doklad o aktivní certifikaci příjemce, rozsah rozhodnutí o adekvátnosti, monitoring statusu a vývoje, připravený záložní mechanismus.
+
 ---
 
 ### Čl. 46 — Předávání při poskytnutí vhodných záruk
@@ -86,6 +159,43 @@ Prakticky nejrozšířenějším nástrojem jsou **standardní smluvní doložky
 Odst. 2 dále uvádí: závazná podniková pravidla (čl. 47; viz níže), právně závazné a vynutitelné nástroje mezi veřejnými orgány (typicky mezivládní dohody), schválené kodexy chování (čl. 40) a certifikační mechanismy (čl. 42). Posledně jmenované jsou podmíněny tím, že správce nebo zpracovatel ve třetí zemi přijme závazné a vymahatelné závazky záruky uplatňovat — tedy pouhá certifikace nestačí, musí existovat mechanismus vymahatelnosti.
 
 Odst. 3 upravuje záruky vyžadující individuální povolení dozorového úřadu: ad hoc smluvní doložky a správní ujednání. V těchto případech se uplatní mechanismus jednotnosti (čl. 63), aby se předešlo roztříštěnosti přístupů jednotlivých dozorových úřadů. ÚOOÚ v souladu s tím předkládá návrhy ad hoc doložek EDPB před vydáním povolení. ZZOÚ tento systém nepřebírá ani nedoplňuje; relevantní jsou výhradně unijní pravidla.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost (správce) předává data zpracovateli v třetí zemi bez rozhodnutí o adekvátnosti na základě SCC z roku 2021. Spoléhá výhradně na text doložek, ale neprovedla posouzení, zda právo cílové země (rozsáhlé pravomoci tajných služeb) umožňuje doložky reálně dodržet, ani nepřijala dodatečná opatření. Důkazy: uzavřené SCC, TIA, dodatečná opatření (šifrování), právní analýza cílové země.
+
+**2. Právní otázka.** Postačí pro předání dle čl. 46 samotné uzavření SCC, nebo je nutné posoudit reálnou účinnost záruk a přijmout dodatečná opatření?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 46 odst. 1 (vhodné záruky + vymahatelná práva), odst. 2 písm. c) (SCC), odst. 3 (ad hoc doložky s povolením).
+- *Související ustanovení téhož zákona:* čl. 44, čl. 47 (BCR), čl. 49, čl. 32.
+- *Související předpisy:* prováděcí rozhodnutí Komise 2021/914 (SCC); doporučení EDPB k dodatečným opatřením.
+- *Judikatura:* SDEU Schrems II — nutnost TIA a případných supplementary measures.
+
+**4. Subsumpce.** SCC jsou platným titulem jen tehdy, umožňuje-li právo a praxe cílové země jejich reálné dodržení. U země s rozsáhlým přístupem tajných služeb je nutné TIA a dodatečná opatření; jejich absence činí předání nezákonným i přes uzavřené SCC.
+
+**5. Řešení.** Správce provede TIA, a je-li ochrana nedostatečná, přijme dodatečná opatření (silné šifrování, pseudonymizace, selekce dat) nebo od předání upustí. Procesně: dokumentace TIA, implementace opatření.
+
+**6. Varianty.** (a) U ad hoc doložek (odst. 3) je nutné povolení dozorového úřadu a mechanismus jednotnosti (čl. 63). (b) Skupina podniků může využít BCR (čl. 47) místo opakovaných SCC.
+
+#### G. Protiargumenty a rizika
+
+- *„SCC samy o sobě stačí."* Po Schrems II je nutné posoudit reálnou účinnost a doplnit opatření; samotný text nestačí.
+- *„TIA je formalita."* TIA je podmínkou zákonnosti; jeho absence vystavuje správce sankci a zákazu předání.
+- *Slabé místo:* posouzení práva a praxe cílové země je náročné a nejisté; dostatečnost dodatečných opatření je sporná.
+
+#### H. Praktický závěr
+
+Vhodné záruky (zejm. SCC) jsou účinné jen tehdy, lze-li je v cílové zemi reálně dodržet; vždy proveď TIA a v rizikových zemích doplň silná dodatečná opatření, jinak od předání upusť.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je zvolen vhodný nástroj záruk (SCC / BCR / kodex / certifikace)?
+- [ ] Jsou subjektům k dispozici vymahatelná práva a prostředky (odst. 1)?
+- [ ] Bylo provedeno TIA (právo a praxe cílové země)?
+- [ ] Byla přijata dodatečná opatření tam, kde je ochrana nedostatečná?
+- [ ] Je u ad hoc doložek získáno povolení úřadu (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** uzavřené SCC/BCR, dokument TIA, právní analýza cílové země, popis dodatečných opatření (šifrování), případné povolení úřadu.
 
 ---
 
@@ -123,6 +233,43 @@ BCR musí být schválena příslušným dozorovým úřadem (v praxi vedoucím 
 
 Systém BCR je výhodný pro velké nadnárodní korporace (záruky jsou integrovány do interní politiky skupiny, jsou stabilnější než individuální SCC), avšak schvalovací řízení je časově i administrativně náročné. Zásadní charakteristikou je odpovědnost evropského subjektu skupiny (odst. 2 písm. f)): člen skupiny usazený v EU nese odpovědnost za porušení BCR způsobené členem mimo EU, ledaže prokáže jeho absenci zavinění. Tím je zajistitelnost práv subjektů údajů v Unii zachována i tehdy, když k pochybení dojde za hranicemi EHP. BCR musí pokrývat všechny obligatorní prvky taxativně vyjmenované v odst. 2 — zejména zásady GDPR, práva subjektů údajů, mechanismy stížností, audity, mechanismus hlášení konfliktních zahraničních právních požadavků (odst. 2 písm. m), který je přímou reakcí na problém legislativy třetích zemí nastolený judikaturou Schrems I a Schrems II) a pravidelnou odbornou přípravu zaměstnanců.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nadnárodní skupina chce zjednodušit toky dat mezi mateřskou společností v EU a desítkami dceřiných společností po celém světě. Místo opakovaného uzavírání SCC zvažuje přijetí závazných podnikových pravidel (BCR). Jeden z členů mimo EU poruší pravidla a způsobí újmu subjektu. Důkazy: schválená BCR, struktura skupiny, doklad o vymahatelnosti vůči členům, odpovědnostní ujednání evropského subjektu.
+
+**2. Právní otázka.** Splňují BCR podmínky čl. 47 (zejm. právní závaznost, vymahatelná práva subjektů, odpovědnost evropského subjektu) a kdo odpovídá za porušení členem mimo EU?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 47 odst. 1 (schválení, závaznost, vymahatelná práva), odst. 2 písm. f) (odpovědnost EU subjektu), písm. m) (hlášení konfliktních požadavků).
+- *Související ustanovení téhož zákona:* čl. 46 odst. 2 písm. b), čl. 63 (jednotnost), čl. 22, čl. 79, čl. 82.
+- *Související předpisy:* doporučení EDPB k BCR.
+- *Judikatura:* Schrems I, II (důvod pro mechanismus hlášení dle písm. m)).
+
+**4. Subsumpce.** BCR musí být schválena vedoucím dozorovým úřadem v rámci jednotnosti, právně závazná vůči všem členům a přiznávat subjektům vymahatelná práva. Za porušení členem mimo EU odpovídá evropský subjekt (odst. 2 písm. f)), ledaže prokáže absenci zavinění daného člena.
+
+**5. Řešení.** Skupina nechá BCR schválit a zajistí všechny obligatorní prvky (odst. 2). Subjekt uplatní práva vůči evropskému subjektu, který odpovídá za škodu. Procesně: schvalovací řízení, audity, mechanismus hlášení konfliktů.
+
+**6. Varianty.** (a) Pro zpracovatelské činnosti existují samostatné BCR zpracovatelů. (b) Bez schválení BCR nepředstavují platný titul a předání je nutné opřít o jiný nástroj.
+
+#### G. Protiargumenty a rizika
+
+- *„BCR platí automaticky po přijetí."* BCR musí schválit dozorový úřad v rámci jednotnosti; bez schválení nejsou titulem.
+- *„Za zahraniční členy neodpovídáme."* Evropský subjekt odpovídá za porušení členy mimo EU (odst. 2 písm. f)).
+- *Slabé místo:* schvalovací proces je zdlouhavý a administrativně náročný; konflikt s právem třetí země (písm. m)) zůstává rizikem.
+
+#### H. Praktický závěr
+
+BCR jsou stabilním vnitroskupinovým titulem pro předávání, vyžadují však schválení úřadem, úplnou sadu obligatorních prvků a odpovědnost evropského subjektu za porušení členy mimo EU.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla BCR schválena v rámci mechanismu jednotnosti (odst. 1)?
+- [ ] Jsou právně závazná vůči všem členům i zaměstnancům?
+- [ ] Přiznávají subjektům vymahatelná práva (odst. 1 písm. b))?
+- [ ] Je upravena odpovědnost evropského subjektu (odst. 2 písm. f))?
+- [ ] Existuje mechanismus hlášení konfliktních zahraničních požadavků (písm. m))?
+
+**Typicky rozhodné důkazy / podklady:** schválená BCR, schvalovací rozhodnutí úřadu, struktura skupiny, doklady o auditech a školeních, odpovědnostní ujednání.
+
 ---
 
 ### Čl. 48 — Předávání nebo zpřístupnění, která nejsou povolena právem Unie
@@ -133,6 +280,42 @@ Systém BCR je výhodný pro velké nadnárodní korporace (záruky jsou integro
 **Výklad:** Článek 48 řeší situaci, která je v globálním kontextu stále napínavější: orgány třetích zemí (soudy, správní úřady, zpravodajské služby) se snaží zavázat správce nebo zpracovatele se sídlem v EU k tomu, aby vydali nebo zpřístupnili osobní údaje osob nacházejících se v EU — a to zpravidla na základě vnitrostátního práva třetí země s extrateritoriálními účinky.
 
 GDPR na tento fenomén reaguje jednoznačně: takový příkaz (ať soudní, či správní) je pro správce nebo zpracovatele v EU závazný pouze tehdy, pokud je podložen mezinárodní smlouvou platnou mezi třetí zemí a EU nebo členským státem — typicky smlouvou o vzájemné právní pomoci (*Mutual Legal Assistance Treaty*, MLAT) nebo obdobným instrumentem. Absence mezinárodní smlouvy znamená, že příkaz sám o sobě nepředstavuje platný právní titul k předání ve smyslu GDPR. Správce se tak ocitá ve střetu dvou právních řádů: GDPR mu předání zakazuje, zatímco cizí právní řád jej přikazuje. Tento střet je nutno řešit prostřednictvím příslušných procesních mechanismů (v EU typicky námitky a konzultace s dozorovým úřadem). Recitál 115 výslovně konstatuje, že extrateritoriální aplikace zákonů třetích zemí může být v rozporu s mezinárodním právem. Článek 48 se nevylučuje s ostatními tituly kapitoly V: pokud by zákonný požadavek třetí země mohl být splněn v rámci jiného titulu (např. výjimky pro důležité důvody veřejného zájmu dle čl. 49 odst. 1 písm. d), je-li tento zájem uznán v právu EU nebo členského státu), je takové předání přípustné.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Soud třetí země vydá příkaz adresovaný české dceřiné společnosti (zpracovatel), aby vydala osobní údaje zaměstnanců evropské matky pro účely tamního řízení. Mezi EU/ČR a danou zemí neexistuje smlouva o vzájemné právní pomoci. Společnost je v dilematu: vyhovět cizímu příkazu, nebo GDPR. Důkazy: znění zahraničního příkazu, existence/absence MLAT, konzultace s ÚOOÚ, posouzení jiných titulů.
+
+**2. Právní otázka.** Je zahraniční soudní/správní příkaz sám o sobě platným titulem pro předání dle čl. 48, chybí-li mezinárodní smlouva?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 48 (uznání/vykonatelnost jen na základě mezinárodní dohody).
+- *Související ustanovení téhož zákona:* čl. 44, čl. 49 odst. 1 písm. d), e) (možné jiné tituly), čl. 6.
+- *Související předpisy:* recitál 115; smlouvy o vzájemné právní pomoci (MLAT).
+- *Judikatura:* praxe a recitál 115 — extrateritoriální příkazy mohou být v rozporu s mezinárodním právem.
+
+**4. Subsumpce.** Bez MLAT není zahraniční příkaz platným titulem k předání dle GDPR. Předání by bylo přípustné jen, pokud by je pokryl jiný titul (např. čl. 49 odst. 1 písm. e) pro právní nároky, je-li dán). Jinak je vyhovění příkazu porušením GDPR.
+
+**5. Řešení.** Společnost příkazu bez MLAT nevyhoví automaticky; konzultuje ÚOOÚ a zváží jiné tituly kapitoly V. Procesně: právní analýza, námitka vůči cizímu orgánu, konzultace s úřadem.
+
+**6. Varianty.** (a) Existuje-li MLAT, lze příkaz uznat a údaje předat v jeho rámci. (b) Pokud by předání kryl důležitý veřejný zájem uznaný právem EU/ČR (čl. 49 odst. 1 písm. d), odst. 4), bylo by přípustné.
+
+#### G. Protiargumenty a rizika
+
+- *„Cizí soudní příkaz musíme splnit."* Bez MLAT není příkaz platným titulem dle GDPR; jeho splnění může být porušením.
+- *„GDPR neřeší cizí jurisdikci."* Čl. 48 výslovně podmiňuje uznání příkazu mezinárodní dohodou.
+- *Slabé místo:* střet právních řádů je reálný a může vystavit společnost sankci v obou jurisdikcích; řešení vyžaduje konzultaci a procesní obranu.
+
+#### H. Praktický závěr
+
+Zahraniční soudní či správní příkaz k vydání dat je v EU titulem jen na základě mezinárodní dohody (MLAT); jinak je nutné hledat jiný titul kapitoly V nebo příkazu nevyhovět a konzultovat úřad.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje mezinárodní dohoda (MLAT) krytí příkazu?
+- [ ] Není-li, lze předání opřít o jiný titul kapitoly V?
+- [ ] Byla věc konzultována s ÚOOÚ?
+- [ ] Byla zvážena procesní obrana vůči cizímu orgánu?
+
+**Typicky rozhodné důkazy / podklady:** znění zahraničního příkazu, doklad o (ne)existenci MLAT, právní analýza titulů, záznam konzultace s úřadem.
 
 ---
 
@@ -174,6 +357,43 @@ Druhý pododstavec odst. 1 zavádí tzv. residuální klauzuli přesvědčivých
 
 Odst. 5 výslovně umožňuje, aby unijní nebo vnitrostátní právo *omezilo* předávání specifických kategorií údajů — jde o zrcadlový protipól výjimek: normotvůrce může zakázat předávání, kde by jinak mohla být výjimka použita. ZZOÚ neobsahuje takové výslovné zákazy předávání, avšak § 35 ZZOÚ omezuje přístup k osobním údajům zpracovávaným pro účely trestněprávní agendy, což má na předávání nepřímý dopad.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Cestovní kancelář (správce) jednorázově předá údaje jednoho klienta do třetí země bez adekvátnosti i bez SCC, aby mu zajistila ubytování, které si výslovně vyžádal. V jiném případě chce systematicky a opakovaně předávat databázi všech klientů do třetí země „na základě oprávněného zájmu". Důkazy: nezbytnost předání pro smlouvu, výslovný informovaný souhlas, rozsah a opakovanost předání, informování úřadu.
+
+**2. Právní otázka.** Lze obě předání opřít o výjimky dle čl. 49 (smluvní nezbytnost, souhlas, residuální klauzule), a platí pro ně požadavek restriktivního výkladu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 49 odst. 1 písm. a) (výslovný souhlas), písm. b) (smlouva), pododstavec druhý (residuální klauzule), odst. 6 (záznam).
+- *Související ustanovení téhož zákona:* čl. 44–47, čl. 13/14, čl. 30.
+- *Související předpisy:* pokyny EDPB č. 2/2018 k výjimkám čl. 49.
+- *Judikatura:* praxe EDPB — výjimky jsou ultima ratio, ne trvalý titul.
+
+**4. Subsumpce.** Jednorázové předání nezbytné pro klientem vyžádanou smlouvu spadá pod písm. b) (nebo výslovný informovaný souhlas dle písm. a)). Systematické opakované předávání celé databáze pod výjimky nespadá — vyžaduje čl. 45/46; residuální klauzule je vyloučena pro opakovaná předání.
+
+**5. Řešení.** První předání je přípustné jako nezbytné pro smlouvu/se souhlasem. Pro druhé musí kancelář zavést SCC nebo jiný titul; výjimky nelze použít jako trvalý náhradní titul. Procesně: informovaný souhlas, záznam dle čl. 30.
+
+**6. Varianty.** (a) Residuální klauzule (přesvědčivý oprávněný zájem) by připadala v úvahu jen u neopakovaného předání omezeného počtu subjektů s TIA a informováním úřadu. (b) U veřejných orgánů jsou některé výjimky vyloučeny (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *„Oprávněný zájem kryje i opakovaná předání."* Residuální klauzule výslovně vylučuje opakovaná předání; pro ně je nutný čl. 45/46.
+- *„Souhlas vyřeší vše."* Souhlas musí být výslovný a informovaný o rizicích absence záruk; nehodí se pro systematické toky.
+- *Slabé místo:* hranice „nezbytnosti" a „neopakovanosti" je sporná; nesprávné použití výjimky vede k nezákonnosti.
+
+#### H. Praktický závěr
+
+Výjimky dle čl. 49 jsou záchrannou sítí pro nahodilá, nezbytná předání, vykládají se restriktivně a nesmí nahrazovat čl. 45/46 u systematických toků; vždy je dokumentuj v záznamech.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dána konkrétní výjimka dle odst. 1 a je předání skutečně nezbytné?
+- [ ] Je u souhlasu výslovný a informovaný o rizicích (písm. a))?
+- [ ] Nejde o opakované/systematické předání (pak nutný čl. 45/46)?
+- [ ] Je u residuální klauzule provedeno TIA a informován úřad?
+- [ ] Je posouzení a záruky zaznamenáno dle čl. 30 (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o nezbytnosti pro smlouvu, znění výslovného souhlasu, rozsah a frekvence předání, záznam dle čl. 30, případné informování úřadu a subjektu.
+
 ---
 
 ### Čl. 50 — Mezinárodní spolupráce pro ochranu osobních údajů
@@ -190,6 +410,42 @@ Odst. 5 výslovně umožňuje, aby unijní nebo vnitrostátní právo *omezilo* 
 Opatření zahrnují uzavírání dohod o spolupráci (*Memoranda of Understanding* nebo formální dohody) s dozorovými úřady třetích zemí, vzájemnou pomoc při stížnostech a šetřeních, výměnu informací o legislativních confliktech a zapojení stakeholderů (akademická sféra, průmyslové asociace, mezinárodní organizace jako OECD, OSN či Rada Evropy). Recitál 116 zdůrazňuje, že bez mezinárodní spolupráce dozorových úřadů by přeshraniční prosazování GDPR bylo jen iluzorní. ÚOOÚ je zapojen prostřednictvím EDPB do mezinárodních fór (Global Privacy Assembly, Berlínská skupina) a uzavírá bilaterální ujednání o spolupráci s dozorovými úřady mimo EHP.
 
 Vazba na zákon č. 110/2019 Sb.: § 54 a násl. ZZOÚ upravují pravomoci ÚOOÚ, přičemž mezinárodní spolupráce ÚOOÚ se opírá přímo o čl. 50 GDPR a o příslušná prováděcí pravidla EDPB; zvláštní vnitrostátní úprava pro předávání nebyla přijata.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Subjekt z ČR podá ÚOOÚ stížnost na správce usazeného mimo EHP, který sleduje jeho chování. ÚOOÚ k účinnému prošetření potřebuje součinnost dozorového úřadu třetí země (výměna informací, pomoc při šetření). Existuje jen omezený rámec spolupráce. Důkazy: dohody o spolupráci ÚOOÚ se zahraničními úřady, mechanismus vzájemné pomoci, rozsah sdílených informací.
+
+**2. Právní otázka.** Jaký je dosah čl. 50 a zakládá adresátům normy (správcům) přímá práva či povinnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 50 písm. a)–d) (mechanismy spolupráce, vzájemná pomoc, zapojení stran, výměna praxe).
+- *Související ustanovení téhož zákona:* čl. 3 (územní působnost), čl. 57–58 (úkoly a pravomoci úřadu), čl. 60 a násl. (spolupráce v EU).
+- *Související předpisy:* § 54, § 56 ZZOÚ (mezinárodní spolupráce ÚOOÚ); recitál 116.
+- *Judikatura:* —
+
+**4. Subsumpce.** Čl. 50 je programovým ustanovením adresovaným Komisi a dozorovým úřadům; nezakládá přímá práva ani povinnosti správců. Účinné přeshraniční prosazování závisí na dohodách o spolupráci a vzájemné pomoci, které ÚOOÚ uzavírá a využívá.
+
+**5. Řešení.** ÚOOÚ využije existující mechanismy spolupráce (MoU, výměna informací) k prošetření stížnosti; účinnost je limitována rozsahem mezinárodní spolupráce. Pro subjekt to znamená, že vymahatelnost vůči zahraničnímu správci může být ztížená.
+
+**6. Varianty.** (a) Má-li zahraniční správce zástupce v EU (čl. 27), je prosazování snazší. (b) Existuje-li dohoda o vzájemné pomoci s daným úřadem, je šetření efektivnější.
+
+#### G. Protiargumenty a rizika
+
+- *„Čl. 50 dává subjektu nárok na mezinárodní pomoc."* Jde o programové ustanovení pro orgány, nikoli o přímý nárok adresátů normy.
+- *„ÚOOÚ vše vymůže i mimo EU."* Pravomoci úřadu jsou územně omezené; účinnost závisí na spolupráci se zahraničními úřady.
+- *Slabé místo:* mezinárodní spolupráce je fakticky závislá na dobré vůli a dohodách; chybí přímá vynutitelnost.
+
+#### H. Praktický závěr
+
+Čl. 50 je programovým rámcem mezinárodní spolupráce dozorových úřadů; nezakládá povinnosti správců, ale ovlivňuje reálnou vymahatelnost práv vůči subjektům mimo EHP — proto je klíčový institut zástupce v EU (čl. 27).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o přeshraniční prvek vyžadující součinnost zahraničního úřadu?
+- [ ] Existuje dohoda o spolupráci/vzájemné pomoci (§ 54, § 56 ZZOÚ)?
+- [ ] Má zahraniční správce zástupce v EU (čl. 27) usnadňující prosazování?
+- [ ] Jsou využity dostupné mechanismy výměny informací?
+
+**Typicky rozhodné důkazy / podklady:** dohody o spolupráci ÚOOÚ, doklad o existenci zástupce v EU, komunikace mezi dozorovými úřady, rozsah dostupné vzájemné pomoci.
 
 ---
 

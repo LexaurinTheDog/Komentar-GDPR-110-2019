@@ -23,6 +23,42 @@ Odst. 3 je normativním vyjádřením zásady volného pohybu dat coby součást
 
 Recitály 1–7 dokreslují hodnotový rámec: ochrana dat není samoúčelná, ale slouží jako prostředek k realizaci práv fyzických osob v digitálním prostředí, k posilování důvěry v digitální ekonomiku a k dokončení vnitřního trhu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský zákonodárný či regulační orgán členského státu B přijme předpis, který tuzemským poskytovatelům zdravotní péče zakazuje přenášet zdravotnickou dokumentaci pacientů na servery umístěné v jiném členském státě EU (např. do datacentra v ČR), a to s odůvodněním „zvýšené ochrany dat". Český poskytovatel cloudových služeb, který hostuje data nemocnice ze státu B, ztratí zakázku. Účastníci: stát B (autor omezujícího předpisu), nemocnice ze státu B (správce), český poskytovatel cloudu (zpracovatel), pacienti (subjekty údajů). Důkazy: znění předpisu státu B, smlouva o zpracování, doklad o umístění serverů.
+
+**2. Právní otázka.** Může členský stát z titulu ochrany osobních údajů zakázat či omezit přenos osobních údajů do jiného členského státu EU, je-li v obou státech přímo použitelné GDPR?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 1 odst. 3 GDPR — volný pohyb osobních údajů v Unii nesmí být z důvodů ochrany dat omezen ani zakázán.
+- *Související ustanovení téhož nařízení:* čl. 1 odst. 1 (dvojí cíl), kapitola V (přenosy do třetích zemí — ta se zde nepoužije, neboť jde o pohyb uvnitř Unie).
+- *Související předpisy:* čl. 16 a čl. 288 SFEU (přímá použitelnost a aplikační přednost nařízení); ZZOÚ, který nesmí jít nad rámec GDPR.
+- *Judikatura:* SDEU opakovaně dovodil, že nařízení nepřipouští vnitrostátní úpravu odchylnou tam, kde harmonizuje vyčerpávajícím způsobem; vnitrostátní opatření omezující volný pohyb dat uvnitř Unie z titulu ochrany údajů je v rozporu s plnou harmonizací sledovanou nařízením.
+
+**4. Subsumpce.** Přenos dat z nemocnice v B do ČR je pohybem osobních údajů uvnitř Unie. Předpis státu B jej omezuje výslovně „z důvodů ochrany dat". Tím naplňuje hypotézu čl. 1 odst. 3, který takové omezení zakazuje. Sporné by mohlo být jen to, zda předpis nesleduje jiný legitimní cíl (např. bezpečnost zdravotnictví jako takovou); pokud je však jádrem omezení ochrana osobních údajů, výjimka neexistuje.
+
+**5. Řešení.** Předpis státu B je v rozporu s čl. 1 odst. 3 GDPR a pro aplikační přednost nařízení by neměl být aplikován; poskytovatel i nemocnice se mohou dovolat přímého účinku nařízení, případně iniciovat řízení o předběžné otázce u SDEU. Praktický krok: žaloba proti rozhodnutí orgánu státu B, námitka neaplikovatelnosti vnitrostátního předpisu, návrh na předběžnou otázku.
+
+**6. Varianty.** (a) Pokud by stát B opřel omezení o skutečně mimoharmonizovaný titul (např. utajované informace v oblasti národní bezpečnosti dle čl. 2 odst. 2 písm. a), výsledek by byl jiný — GDPR by se nepoužilo. (b) Pokud by šlo o přenos na servery mimo EU (USA), uplatnila by se kapitola V a omezení by mohlo být legitimní.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* Stát B tvrdí, že nejde o ochranu dat, ale o „bezpečnost zdravotnictví" či národní bezpečnost. Neutralizace: rozhodující je skutečný cíl a účinek opatření; soud zkoumá jeho povahu materiálně, nikoli podle deklarovaného označení.
+- *Protiargument 2:* Čl. 1 je „pouze deklaratorní/programové" ustanovení bez přímého normativního obsahu. Neutralizace: odst. 3 je formulován jako přímý zákaz („není omezen ani zakázán") a SDEU mu přiznává normativní účinek ve spojení s plnou harmonizací nařízení.
+- *Slabé místo:* Hranice mezi ochranou dat a jinými legitimními cíli (lokalizace dat z bezpečnostních důvodů) je v praxi nejasná a může vyžadovat řízení o předběžné otázce.
+
+#### H. Praktický závěr
+
+Čl. 1 vymezuje účel a hranice celé úpravy: ochrana fyzických osob a současně zákaz omezovat volný pohyb dat uvnitř Unie. V praxi slouží jako interpretační vodítko i jako přímý zákaz vnitrostátních lokalizačních překážek.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o pohyb osobních údajů uvnitř EU, nebo do třetí země (kapitola V)?
+- [ ] Je sporné opatření odůvodněno ochranou dat, nebo jiným (mimoharmonizovaným) cílem?
+- [ ] Respektuje vnitrostátní úprava (ZZOÚ, předpis jiného státu) aplikační přednost nařízení?
+- [ ] Lze využít přímý účinek nařízení a námitku neaplikovatelnosti vnitrostátní normy?
+
+**Typicky rozhodné důkazy / podklady:** znění sporného vnitrostátního předpisu, doklad o umístění zpracování (lokalita serverů), smluvní dokumentace správce/zpracovatele, doložení skutečného cíle opatření.
+
 ---
 
 ### Čl. 2 — Věcná působnost
@@ -64,6 +100,42 @@ Výjimky v odst. 2 jsou taxativní a je nutno je vykládat restriktivně:
 
 Z pohledu ZZOÚ je věcná působnost zásadní zejm. pro § 1 odst. 2, který vymezuje okruh správců spadajících pod zákon, a pro hlavu III, která transponuje LED pro trestněprávní zpracování.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Fyzická osoba P provozuje na zahradě svého rodinného domu kamerový systém, který kromě jejího pozemku trvale snímá i část veřejného chodníku a vchod do sousedního domu. Záznamy ukládá na disk a uchovává po dobu 30 dní; jednou je předala policii kvůli vandalismu. Soused (subjekt údajů) podá stížnost k ÚOOÚ. Účastníci: P (provozovatel kamery), soused a kolemjdoucí (subjekty údajů), ÚOOÚ. Důkazy: záběr kamery (rozsah snímané plochy), nastavení doby uchování, doklad o předání záznamu policii.
+
+**2. Právní otázka.** Vztahuje se na takový kamerový systém GDPR, nebo jde o „výlučně osobní či domácí činnost" vyňatou z věcné působnosti podle čl. 2 odst. 2 písm. c)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 2 odst. 1 (automatizované zpracování) a čl. 2 odst. 2 písm. c) (household exemption).
+- *Související ustanovení téhož nařízení:* čl. 4 bod 2 (zpracování), čl. 6 odst. 1 (právní základ — oprávněný zájem), čl. 5 (zásady, zejm. minimalizace).
+- *Související předpisy:* ZZOÚ § 1 odst. 2; recitál 18 GDPR (rozsah domácí výjimky).
+- *Judikatura:* SDEU ve věci kamerového sledování (Ryneš, C-212/13) dovodil, že kamerový systém zaznamenávající i veřejné prostranství mimo soukromý pozemek nespadá pod výjimku výlučně osobní činnosti, neboť se vztahuje i na veřejný prostor a osoby mimo soukromou sféru provozovatele.
+
+**4. Subsumpce.** Kamera ukládá obrazové záznamy automatizovaným prostředkem → jde o zpracování osobních údajů dle odst. 1. Domácí výjimka by se uplatnila jen při „výlučně" osobní/domácí činnosti. Protože kamera systematicky snímá veřejný chodník a cizí nemovitost, činnost není „výlučně" domácí — výjimka odpadá. GDPR se tedy plně použije a P se stává správcem.
+
+**5. Řešení.** P musí zúžit záběr pouze na vlastní pozemek (privacy by design), vymezit právní základ (oprávněný zájem dle čl. 6 odst. 1 písm. f), omezit dobu uchování, informovat o monitorování (cedule) a vést záznamy. Předání policii má samostatný režim. Pravděpodobný výsledek stížnosti: ÚOOÚ shledá porušení, uloží nápravná opatření, případně sankci, pokud P záběr neupraví.
+
+**6. Varianty.** (a) Kdyby kamera snímala výhradně oplocený pozemek P a nikoho zvenčí, uplatnila by se domácí výjimka a GDPR by se nepoužilo. (b) Kdyby šlo o atrapu bez záznamu, nešlo by o zpracování vůbec.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* P tvrdí, že jde o ochranu vlastního majetku, tedy soukromou činnost. Neutralizace: ochrana majetku je legitimní zájem, ale rozsah snímání veřejného prostoru činnost vyvádí z „výlučně" domácí sféry — to potvrzuje i judikatura SDEU.
+- *Protiargument 2:* Záběr veřejného chodníku je „marginální". Neutralizace: i částečné systematické snímání veřejného prostoru postačuje k vyloučení výjimky; rozhodující je, že se sledování dotýká osob mimo domácnost.
+- *Slabé místo:* Posouzení „rozsahu" snímání je skutkové a vyžaduje technické doložení záběru; bez něj je subsumpce sporná.
+
+#### H. Praktický závěr
+
+Věcná působnost GDPR je široká; výjimky (zejm. domácí činnost a trestněprávní zpracování) jsou úzké a vykládají se restriktivně. U kamerových a manuálních zpracování je třeba vždy testovat, zda jde o „výlučně" osobní činnost a zda data tvoří evidenční systém.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o automatizované zpracování, nebo o manuální data v evidenčním systému?
+- [ ] Uplatní se některá z taxativních výjimek odst. 2 (a–d) — a je vykládána restriktivně?
+- [ ] Je u domácí výjimky činnost „výlučně" osobní, bez vnějšího/veřejného přesahu?
+- [ ] Nejde o trestněprávní zpracování spadající pod LED a hlavu III ZZOÚ?
+
+**Typicky rozhodné důkazy / podklady:** technické parametry a rozsah snímání/zpracování, doba uchování, účel a kontext činnosti, dokumentace předání dat třetím osobám, případné záznamy o zpracování.
+
 ---
 
 ### Čl. 3 — Územní působnost
@@ -96,6 +168,42 @@ Podstatné je, že samotné místo zpracování je irelevantní: i kdyby data pu
 **Kritérium veřejného mezinárodního práva (odst. 3)** pokrývá okrajové případy, jako jsou diplomatické mise nebo konzuláty členských států ve třetích zemích (recitál 25). Je-li na daném místě použitelné právo členského státu, použije se i GDPR.
 
 Pro českou aplikaci: ZZOÚ ve svém § 1 odst. 1 odkazuje na použití GDPR jako celku, tedy včetně jeho čl. 3. Zákon č. 110/2019 Sb. sám neobsahuje zvláštní úpravu územní působnosti nad rámec nařízení. Správce usazený mimo EU, který cílí na české spotřebitele, podléhá GDPR, a tedy i dohledu ÚOOÚ (srov. čl. 55 a 56 GDPR o příslušnosti dozorových úřadů).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost X se sídlem v USA, bez jakékoli provozovny v EU, provozuje e-shop s oblečením. Web je dostupný v češtině, ceny uvádí v Kč, nabízí dopravu do ČR a v patičce odkazuje na recenze českých zákazníků. Současně na webu nasazuje analytické a reklamní cookies, které sledují chování návštěvníků z ČR a vytvářejí jejich reklamní profily. Český zákazník Z podá stížnost k ÚOOÚ na zpracování bez řádného souhlasu s cookies. Účastníci: X (správce mimo EU), Z a další čeští návštěvníci (subjekty údajů v Unii), ÚOOÚ. Důkazy: jazyková a měnová lokalizace webu, nastavení dopravy do ČR, technická analýza cookies a profilování.
+
+**2. Právní otázka.** Vztahuje se GDPR na společnost X, která nemá v EU žádnou provozovnu, na základě kritéria zaměření podle čl. 3 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 3 odst. 2 písm. a) (nabídka zboží/služeb) a písm. b) (monitorování chování).
+- *Související ustanovení téhož nařízení:* čl. 27 (povinnost jmenovat zástupce v Unii), čl. 4 bod 4 (profilování), čl. 6 a čl. 7 (právní základ a souhlas s cookies), čl. 55–56 (příslušnost dozorových úřadů).
+- *Související předpisy:* ZZOÚ § 1 odst. 1; recitály 23 a 24 GDPR; pravidla o cookies (zákon č. 127/2005 Sb., o elektronických komunikacích, § 89).
+- *Judikatura:* SDEU u kritéria zaměření zdůrazňuje, že rozhodující je úmysl správce obracet se na zákazníky v určitém členském státě (analogicky k pojetí „zaměřené činnosti" v Pammer/Alpenhof, C-585/08 a C-144/09); pouhá dostupnost webu nestačí.
+
+**4. Subsumpce.** Z se nachází v Unii (ČR) → splněna podmínka (i). X není usazena v EU → podmínka (ii). Čeština, ceny v Kč, doprava do ČR a reference na české zákazníky prokazují „zaměření" nabídky na trh ČR → naplněno písm. a). Sledování chování návštěvníků z ČR reklamními cookies a profilování → naplněno písm. b). Kumulativní podmínky jsou splněny v obou alternativách.
+
+**5. Řešení.** GDPR se na X plně vztahuje. X je povinna dodržovat nařízení (právní základ pro cookies, informační povinnosti), jmenovat zástupce v Unii dle čl. 27 a podléhá dohledu ÚOOÚ. Praktický postup ÚOOÚ: vyžádání součinnosti přes zástupce, posouzení souhlasu s cookies, případně nápravná opatření či sankce. Riziko: faktická vymahatelnost vůči subjektu bez majetku v EU.
+
+**6. Varianty.** (a) Kdyby web byl jen v angličtině, s cenami v USD, bez dopravy do EU a bez cílení na české zákazníky, šlo by pouze o pasivní dostupnost — GDPR by se nepoužilo. (b) Kdyby X měla v Praze pobočku, jíž by se zpracování týkalo, použil by se již čl. 3 odst. 1 (kritérium provozovny).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* X namítá, že web je „jen dostupný" v EU a aktivně necílí na český trh. Neutralizace: kombinace jazyka, měny a dopravy do ČR prokazuje zaměření; pouhá dostupnost by sama nestačila, zde však jde o aktivní cílení.
+- *Protiargument 2:* X tvrdí, že nesleduje „chování", ale jen vede provozní statistiky. Neutralizace: nasazení reklamních a profilujících cookies vůči osobám v EU naplňuje monitorování dle písm. b) bez ohledu na sebeoznačení.
+- *Slabé místo:* I při jednoznačné aplikovatelnosti GDPR je reálná vymahatelnost vůči správci bez majetku a zástupce v EU omezená; argumentace o územní působnosti tak nemusí vést k faktickému vynucení.
+
+#### H. Praktický závěr
+
+Územní působnost se posuzuje podle tří kritérií: provozovna v EU (odst. 1), zaměření na osoby v Unii nabídkou nebo monitorováním (odst. 2) a místo podléhající právu členského státu dle mezinárodního práva (odst. 3). Pro subjekty mimo EU je klíčové kritérium zaměření.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má správce/zpracovatel provozovnu v EU a souvisí s ní zpracování (odst. 1)?
+- [ ] Nachází-li se subjekt v EU a správce mimo EU — jde o nabídku zboží/služeb nebo monitorování chování (odst. 2)?
+- [ ] Jsou indicie zaměření na trh členského státu (jazyk, měna, doprava, reference) reálně doloženy?
+- [ ] Je splněna povinnost jmenovat zástupce v Unii dle čl. 27 a vyjasněna příslušnost dozorového úřadu?
+
+**Typicky rozhodné důkazy / podklady:** snímky a archivace webu (jazyk, měna, podmínky dodání), technická analýza cookies a profilování, marketingové materiály cílené na EU, doklad o (ne)existenci provozovny a zástupce.
 
 ---
 
@@ -235,6 +343,43 @@ ZZOÚ v § 16 přebírá výjimky z čl. 9 odst. 2 a doplňuje je o česká spec
 > **Bod 25 — služba informační společnosti**: odkazuje na čl. 1 odst. 1 písm. b) směrnice (EU) 2015/1535 — jde o jakoukoli službu poskytovanou zpravidla za úplatu, na dálku, elektronicky a na individuální žádost. Pojem je relevantní zejm. pro pravidla udělování souhlasu dětí (čl. 8 GDPR).
 
 > **Bod 26 — mezinárodní organizace**: organizace a její podřízené orgány řídící se mezinárodním veřejným právem nebo jiný orgán zřízený smlouvou dvou či více států. Relevantní pro předávání dat mezinárodním organizacím (čl. 46 odst. 1 GDPR).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel webu Y bez registrace uživatelů sbírá při návštěvách jejich IP adresy a identifikátory v cookies a kombinuje je s dalšími atributy (typ zařízení, čas, navštívené stránky) za účelem cílené reklamy. Tvrdí, že nezpracovává „osobní údaje", protože nezná jména návštěvníků. Návštěvník N podá stížnost a žádost o přístup ke „svým" datům podle čl. 15. Účastníci: Y (správce), N (subjekt údajů), ÚOOÚ. Důkazy: technická dokumentace, jaké identifikátory Y sbírá, zda a jak je lze přiřadit konkrétní osobě (např. ve spojení s poskytovatelem připojení nebo reklamní sítí).
+
+**2. Právní otázka.** Jsou dynamická IP adresa a cookie identifikátory „osobním údajem" ve smyslu čl. 4 bod 1, a jde tedy o „zpracování" dle čl. 4 bod 2 podléhající GDPR?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 4 bod 1 (osobní údaj — test rozumné pravděpodobnosti identifikace), čl. 4 bod 2 (zpracování), čl. 4 bod 4 (profilování).
+- *Související ustanovení téhož nařízení:* čl. 15 (právo na přístup), čl. 11 (zpracování nevyžadující identifikaci), čl. 6 (právní základ), čl. 13–14 (informační povinnost).
+- *Související předpisy:* recitál 26 a 30 GDPR; zákon č. 127/2005 Sb., § 89 (cookies); ZZOÚ § 1 odst. 1.
+- *Judikatura:* SDEU ve věci Breyer (C-582/14) dovodil, že dynamická IP adresa je pro provozovatele webu osobním údajem, pokud má legální prostředky umožňující identifikaci subjektu s pomocí třetí osoby (poskytovatele připojení).
+
+**4. Subsumpce.** Identifikátory (IP, cookie ID, atributy) jsou „informace o" návštěvníkovi. Otázka identifikovatelnosti se řeší testem rozumné pravděpodobnosti (recitál 26): má-li Y reálné, legální prostředky přiřadit data konkrétní osobě (sám či s reklamní sítí/poskytovatelem připojení), jde o osobní údaje. Sběr, ukládání a kombinování těchto dat naplňuje definici zpracování (čl. 4 bod 2) a jejich vyhodnocování pro reklamu je profilováním (čl. 4 bod 4).
+
+**5. Řešení.** Y zpracovává osobní údaje a GDPR se použije. Musí vymezit právní základ, splnit informační povinnost, vyřídit žádost N dle čl. 15 (nemůže-li N identifikovat, uplatní se čl. 11/čl. 12 odst. 2). Pravděpodobný výsledek stížnosti: shledání zpracování osobních údajů a posouzení jeho zákonnosti (zejm. souhlas s cookies). Riziko: hraniční případy, kdy Y prokáže nemožnost identifikace.
+
+**6. Varianty.** (a) Pokud by data byla skutečně anonymizována tak, že identifikace není za žádných rozumných okolností možná, GDPR by se nepoužilo (recitál 26). (b) Pokud by Y data jen pseudonymizoval (klíč drží odděleně), zůstávají osobními údaji a GDPR platí (bod 5).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Neznáme jména, tedy nejde o osobní údaje." Neutralizace: identifikovatelnost (nepřímá, s pomocí třetí osoby) postačuje; jméno není nutné — viz Breyer a test rozumné pravděpodobnosti.
+- *Protiargument 2:* „Data jsou anonymní/pseudonymní, GDPR neplatí." Neutralizace: pseudonymizovaná data jsou výslovně osobními údaji (čl. 4 bod 5); anonymitu musí prokázat správce a musí být nevratná.
+- *Slabé místo:* Posouzení „rozumně pravděpodobných prostředků" je skutkové a kontextové; bez technické analýzy datových toků a dostupných identifikačních cest je závěr nejistý.
+
+#### H. Praktický závěr
+
+Definice v čl. 4 jsou závazným výkladovým rámcem celého nařízení. Klíčové je široké pojetí osobního údaje (test identifikovatelnosti) a zpracování; od správného zařazení (osobní vs. anonymní údaj, správce vs. zpracovatel, běžná vs. zvláštní kategorie) se odvíjí veškerá další regulace.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o informaci o identifikované nebo identifikovatelné fyzické osobě (test rozumné pravděpodobnosti dle recitálu 26)?
+- [ ] Jsou data anonymizovaná (mimo GDPR), nebo jen pseudonymizovaná (uvnitř GDPR)?
+- [ ] Naplňuje činnost definici zpracování, případně profilování (čl. 4 body 2 a 4)?
+- [ ] Je subjekt správně klasifikován jako správce, společný správce, zpracovatel, příjemce či třetí strana?
+- [ ] Nejde o zvláštní kategorii údajů (genetické/biometrické/zdravotní) s režimem čl. 9?
+
+**Typicky rozhodné důkazy / podklady:** technická dokumentace zpracovávaných identifikátorů a datových toků, doklad o (ne)vratnosti anonymizace/pseudonymizace, smluvní vymezení rolí (čl. 28), záznamy o zpracování, posouzení účelu a prostředků zpracování.
 
 ---
 

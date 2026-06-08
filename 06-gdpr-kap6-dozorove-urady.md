@@ -24,6 +24,42 @@ Kapitola VI GDPR (čl. 51–59) zakládá institucionální základnu ochrany os
 
 Klíčovým slovem odst. 1 je „monitorování uplatňování" (*monitoring the application*) — jde o průběžný, systémový dohled, nikoli pouze o reaktivní vyřizování individuálních stížností. Odst. 2 ukládá každému úřadu pozitivní povinnost přispívat k **jednotnému uplatňování** GDPR v celé Unii; k tomu slouží zejména mechanismus spolupráce (čl. 60–62) a mechanismus jednotnosti (čl. 63–67) upravené v kapitole VII. Recitál 123 zdůrazňuje, že spolupráce dozorových úřadů probíhá přímo ze zákona — není třeba uzavírat zvláštní dohody o vzájemné pomoci.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Subjekt z ČR podá stížnost na zpracování českým správcem přímo Evropské komisi a domnívá se, že „GDPR vymáhá EU". Současně jiný subjekt namítá, že nad zpracováním českými soudy v soudní agendě měl dohlížet ÚOOÚ. Důkazy: identifikace příslušného úřadu, povaha zpracování (soudní vs. správní), územní vazba.
+
+**2. Právní otázka.** Který orgán je dozorovým úřadem příslušným pro zpracování na území ČR a vztahuje se dohled i na zpracování soudy v soudní agendě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 51 odst. 1 (zřízení nezávislého úřadu), odst. 2 (jednotné uplatňování).
+- *Související ustanovení téhož zákona:* čl. 52 (nezávislost), čl. 55 odst. 3 (vynětí soudů), čl. 60 a násl.
+- *Související předpisy:* § 50 ZZOÚ (zřízení ÚOOÚ); čl. 8 odst. 3 Listiny ZP EU.
+- *Judikatura:* SDEU k požadavku nezávislého dohledu.
+
+**4. Subsumpce.** Dozorovým úřadem v ČR je ÚOOÚ (model jednoho ústředního úřadu). Komise dozor nevykonává. Zpracování soudy při výkonu soudní pravomoci je z dohledu ÚOOÚ vyňato (čl. 55 odst. 3); dohled tam plní orgán státní správy soudů.
+
+**5. Řešení.** Stížnost patří ÚOOÚ, nikoli Komisi. Nad soudní agendou soudů ÚOOÚ nedohlíží. Procesně: podání stížnosti u ÚOOÚ, u soudní agendy postup dle státní správy soudů.
+
+**6. Varianty.** (a) U přeshraničního zpracování se uplatní mechanismus vedoucího úřadu (čl. 56). (b) Administrativní zpracování soudem (jako zaměstnavatelem) dohledu ÚOOÚ podléhá.
+
+#### G. Protiargumenty a rizika
+
+- *„GDPR vymáhá EU/Komise."* Dohled vykonává vnitrostátní nezávislý úřad (ÚOOÚ), ne Komise.
+- *„ÚOOÚ dohlíží na vše."* Soudní agenda soudů je z dohledu vyňata (čl. 55 odst. 3).
+- *Slabé místo:* hranice mezi soudní a administrativní agendou soudu je sporná; rozhoduje povaha zpracování.
+
+#### H. Praktický závěr
+
+Dohled nad GDPR v ČR vykonává nezávislý ÚOOÚ; nevztahuje se na zpracování soudy při výkonu soudní pravomoci a úřad zároveň spolupracuje na jednotném uplatňování napříč EU.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je věc v územní/věcné příslušnosti ÚOOÚ?
+- [ ] Nejde o zpracování soudem v soudní agendě (vynětí)?
+- [ ] Není dán přeshraniční prvek (mechanismus vedoucího úřadu)?
+- [ ] Byla stížnost podána správnému orgánu?
+
+**Typicky rozhodné důkazy / podklady:** určení správce a místa zpracování, povaha agendy (soudní/administrativní), územní a přeshraniční vazby.
+
 ---
 
 ### Čl. 52 — Nezávislost
@@ -52,6 +88,43 @@ Soudní dvůr EU opakovaně zdůraznil požadavek nezávislosti v kontextu směr
 
 Zákon č. 110/2019 Sb. realizuje požadavky čl. 52 v hlavě V ZZOÚ: předsedu Úřadu jmenuje prezident republiky na návrh Senátu (§ 53), Úřad má vlastní zaměstnance v pracovněprávním poměru podléhající výlučně vedení předsedy (§ 54 odst. 3), a Úřad hospodaří s vlastní kapitolou státního rozpočtu. Podmínky neslučitelnosti funkce předsedy (odst. 3 čl. 52) jsou promítnuty do § 53 odst. 4 ZZOÚ.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vláda v reakci na nepříznivé rozhodnutí ÚOOÚ proti státnímu orgánu zvažuje začlenění Úřadu pod ministerstvo a krácení jeho rozpočtu, a neformálně dává předsedovi „pokyny" k postupu v citlivé kauze. Předseda namítá ohrožení nezávislosti. Důkazy: organizační začlenění, rozpočtová autonomie, doklad o pokynech, výběr zaměstnanců.
+
+**2. Právní otázka.** Jsou navrhované kroky slučitelné s požadavkem úplné nezávislosti dozorového úřadu dle čl. 52?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 52 odst. 1 (úplná nezávislost), odst. 2 (zákaz pokynů), odst. 4–6 (zdroje, vlastní zaměstnanci, rozpočet).
+- *Související ustanovení téhož zákona:* čl. 51, čl. 53–54.
+- *Související předpisy:* § 51, § 54 ZZOÚ; čl. 8 odst. 3 Listiny ZP EU.
+- *Judikatura:* SDEU k funkční nezávislosti dozorových úřadů (DE, AT).
+
+**4. Subsumpce.** Začlenění pod ministerstvo a faktická rozpočtová závislost by narušily institucionální nezávislost (odst. 4–6). Pokyny předsedovi porušují odst. 2. Nezávislost však nevylučuje finanční kontrolu a soudní přezkum.
+
+**5. Řešení.** Návrhy jsou neslučitelné s čl. 52; Úřad musí mít vlastní rozpočet, zaměstnance a být uchráněn pokynů. Procesně: odmítnutí pokynů, ochrana rozpočtové a personální autonomie.
+
+**6. Varianty.** (a) Řádná finanční kontrola NKÚ nezávislost neporušuje (odst. 6). (b) Soudní přezkum rozhodnutí Úřadu je s nezávislostí slučitelný.
+
+#### G. Protiargumenty a rizika
+
+- *„Úřad je součástí státní správy, vláda ho řídí."* Úřad musí být funkčně i institucionálně nezávislý; řízení vládou je vyloučeno.
+- *„Kontrola rozpočtu = závislost."* Finanční kontrola nenarušuje nezávislost, pokud nezasahuje do výkonu dohledu.
+- *Slabé místo:* hranice mezi legitimní kontrolou a nepřípustným vlivem je sporná; rozhoduje reálný dopad na výkon dohledu.
+
+#### H. Praktický závěr
+
+Dozorový úřad musí jednat zcela nezávisle — bez pokynů, s vlastním rozpočtem, zaměstnanci a infrastrukturou; nezávislost však nevylučuje řádnou finanční kontrolu a soudní přezkum.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jedná úřad bez vnějších pokynů (odst. 2)?
+- [ ] Má vlastní zaměstnance podléhající jen vedení úřadu (odst. 5)?
+- [ ] Má oddělený veřejný rozpočet (odst. 6)?
+- [ ] Jsou zajištěny dostatečné zdroje a infrastruktura (odst. 4)?
+- [ ] Je vyloučen přímý i nepřímý vnější vliv (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** zákonné zakotvení postavení úřadu, rozpočtová dokumentace, doklady o personální autonomii, evidence o (ne)pokynech.
+
 ---
 
 ### Čl. 53 — Obecné podmínky pro členy dozorového úřadu
@@ -76,6 +149,42 @@ Zákon č. 110/2019 Sb. realizuje požadavky čl. 52 v hlavě V ZZOÚ: předsedu
 
 Odst. 4 chrání nezávislost úřadu tím, že odvolání člena omezuje na dva výjimečné důvody: závažné pochybení nebo nesplnění podmínek výkonu funkce. Jakékoli politicky motivované odvolání by bylo v rozporu s čl. 52 a čl. 53 a bylo by přezkoumatelné soudem. Zákon č. 110/2019 Sb. konkretizuje tyto požadavky v § 53: předseda je jmenován prezidentem na návrh Senátu (transparentní postup s participací horní komory parlamentu), musí splňovat zákonem stanovené odborné předpoklady, a může být odvolán jen ze zákonem taxativně vymezených důvodů.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Po politické změně se vládnoucí většina pokusí odvolat předsedu ÚOOÚ uprostřed funkčního období bez uvedení zákonného důvodu, jen kvůli nesouhlasu s jeho rozhodovací linií. Předseda se brání. Důkazy: jmenovací akt a délka funkčního období, důvod odvolání, splnění odborných předpokladů.
+
+**2. Právní otázka.** Lze předsedu dozorového úřadu odvolat z politických důvodů, nebo jen ze zákonem taxativně vymezených důvodů dle čl. 53 odst. 4?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 53 odst. 1 (transparentní jmenování), odst. 2 (kvalifikace), odst. 4 (odvolání jen pro závažné pochybení/nesplnění podmínek).
+- *Související ustanovení téhož zákona:* čl. 52 (nezávislost), čl. 54 odst. 1 písm. d) (funkční období min. 4 roky).
+- *Související předpisy:* § 53 ZZOÚ (jmenování prezidentem na návrh Senátu).
+- *Judikatura:* SDEU k ochraně nezávislosti členů úřadu před politickým odvoláním.
+
+**4. Subsumpce.** Odvolání je možné jen pro závažné pochybení nebo nesplnění podmínek (odst. 4). Politicky motivované odvolání bez zákonného důvodu je nepřípustné a přezkoumatelné soudem; ohrožuje nezávislost (čl. 52).
+
+**5. Řešení.** Odvolání bez zákonného důvodu je neplatné/nezákonné; předseda se může bránit soudně. Procesně: doložení absence zákonného důvodu, soudní přezkum.
+
+**6. Varianty.** (a) Při prokázaném závažném pochybení je odvolání přípustné. (b) Pozbude-li předseda způsobilostní podmínky, výkon funkce skončí dle odst. 3.
+
+#### G. Protiargumenty a rizika
+
+- *„Kdo jmenuje, může odvolat."* Odvolání je vázáno na taxativní důvody (odst. 4); volnost jmenovatele je omezena.
+- *„Nesouhlas s rozhodováním je pochybení."* Rozhodovací nezávislost nelze postihovat jako pochybení.
+- *Slabé místo:* pojem „závažné pochybení" je neurčitý a může být zneužit; rozhoduje soudní přezkum.
+
+#### H. Praktický závěr
+
+Členové dozorového úřadu jsou jmenováni transparentně a chráněni před odvoláním: lze je odvolat jen pro závažné pochybení nebo ztrátu způsobilosti, nikoli z politických důvodů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo jmenování transparentní a oprávněným orgánem (odst. 1)?
+- [ ] Splňuje člen odbornou kvalifikaci (odst. 2)?
+- [ ] Je odvolání opřeno o zákonný taxativní důvod (odst. 4)?
+- [ ] Je dodrženo minimální funkční období (čl. 54 odst. 1 písm. d))?
+
+**Typicky rozhodné důkazy / podklady:** jmenovací akt, doklad o kvalifikaci, odůvodnění odvolání, dokumentace funkčního období.
+
 ---
 
 ### Čl. 54 — Pravidla pro zřízení dozorového úřadu
@@ -98,6 +207,42 @@ Povinnost zachovávat profesní tajemství (odst. 2) je zvláště důležitá p
 
 Zákon č. 110/2019 Sb. splňuje požadavky čl. 54 v § 50–55 ZZOÚ: Úřad je zřízen zákonem (§ 50), předseda je jmenován na pětileté funkční období s možností jednoho znovujmenování (§ 53 odst. 2 a 3), podmínky neslučitelnosti a mlčenlivosti jsou upraveny v § 55 a § 58 odst. 1 ZZOÚ.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Bývalý zaměstnanec ÚOOÚ, který se při kontrole seznámil s identitou oznamovatele a s důvěrnými údaji kontrolovaného správce, po skončení pracovního poměru tyto informace zveřejní. Dotčené osoby se domáhají odpovědnosti. Důkazy: rozsah důvěrných informací, vázanost mlčenlivostí, doba (po skončení poměru), zveřejněné údaje.
+
+**2. Právní otázka.** Vztahuje se povinnost profesního tajemství dle čl. 54 odst. 2 i na bývalého zaměstnance po skončení pracovního poměru a chrání i identitu oznamovatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 54 odst. 1 (zákonný základ úřadu), odst. 2 (profesní tajemství i po skončení poměru, ochrana oznamovatele).
+- *Související ustanovení téhož zákona:* čl. 52, čl. 57–58.
+- *Související předpisy:* § 59 ZZOÚ (mlčenlivost zaměstnanců Úřadu); předpisy o whistleblowingu.
+- *Judikatura:* —
+
+**4. Subsumpce.** Profesní tajemství trvá i po skončení poměru a vztahuje se na veškeré důvěrné informace, zejména na identitu oznamovatele. Zveřejnění je porušením čl. 54 odst. 2 a § 59 ZZOÚ.
+
+**5. Řešení.** Bývalý zaměstnanec porušil mlčenlivost; nese odpovědnost (pracovněprávní, přestupkovou, příp. trestní). Procesně: doložení rozsahu důvěrných informací a vázanosti mlčenlivostí.
+
+**6. Varianty.** (a) Sdělení informací v zákonném rámci (např. orgánům činným v trestním řízení) není porušením. (b) Anonymizovaná statistika ve výroční zprávě (čl. 59) porušením není.
+
+#### G. Protiargumenty a rizika
+
+- *„Po skončení poměru mlčenlivost končí."* Profesní tajemství výslovně trvá i po skončení poměru (odst. 2).
+- *„Šlo o veřejný zájem."* Veřejný zájem nelegitimizuje zveřejnění identity oznamovatele ani důvěrných údajů mimo zákonný rámec.
+- *Slabé místo:* hranice mezi důvěrnou informací a veřejně dostupnou je sporná; rozhoduje povaha a původ informace.
+
+#### H. Praktický závěr
+
+Členové a zaměstnanci dozorového úřadu jsou vázáni profesním tajemstvím i po skončení poměru, zejména ve vztahu k identitě oznamovatelů; vše podstatné o úřadu musí mít zákonný základ.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o důvěrnou informaci získanou při výkonu funkce/poměru?
+- [ ] Trvá povinnost mlčenlivosti i po skončení poměru (odst. 2)?
+- [ ] Je chráněna identita oznamovatele?
+- [ ] Nebyla informace sdělena mimo zákonný rámec?
+
+**Typicky rozhodné důkazy / podklady:** rozsah a původ důvěrných informací, doklad o vázanosti mlčenlivostí, zveřejněný obsah, doba sdělení.
+
 ---
 
 ### Čl. 55 — Příslušnost
@@ -116,6 +261,42 @@ Zákon č. 110/2019 Sb. splňuje požadavky čl. 54 v § 50–55 ZZOÚ: Úřad j
 Odst. 3 vyjímá z dohledu zpracování prováděná soudy při výkonu soudní pravomoci (*acting in their judicial capacity*). Toto vynětí se vztahuje výlučně na soudní agendu — nikoli na administrativní zpracování soudy jako zaměstnavateli nebo správci majetku. V Česku vykonává dohled nad zpracováním při výkonu soudnictví obecně ministerstvo spravedlnosti jako orgán státní správy soudů, nikoli ÚOOÚ.
 
 ÚOOÚ je v souladu s čl. 55 odst. 1 příslušný pro veškeré zpracování probíhající na území ČR, nestanoví-li mechanismus vedoucího úřadu (čl. 56) jinak.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Český úřad práce (orgán veřejné moci) zpracovává údaje žadatelů o dávky na základě zákonné povinnosti (čl. 6 odst. 1 písm. c)) a v rámci veřejného úkolu (písm. e)). Mezinárodní korporace tvrdí, že i pro dohled nad českým úřadem práce by se měl uplatnit mechanismus vedoucího úřadu jiného státu. Důkazy: právní základ zpracování, povaha subjektu (orgán veřejné moci), územní vazba.
+
+**2. Právní otázka.** Uplatní se na zpracování orgánem veřejné moci na základě čl. 6 odst. 1 písm. c) nebo e) mechanismus vedoucího úřadu (čl. 56), nebo je příslušný vždy tuzemský úřad dle čl. 55 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 55 odst. 1 (územní příslušnost), odst. 2 (výjimka pro čl. 6 odst. 1 písm. c)/e), neaplikace čl. 56), odst. 3 (soudy).
+- *Související ustanovení téhož zákona:* čl. 6 odst. 1 písm. c), e), čl. 56.
+- *Související předpisy:* § 54 ZZOÚ; recitál 128.
+- *Judikatura:* —
+
+**4. Subsumpce.** Zpracování orgánem veřejné moci na základě zákonné povinnosti/veřejného úkolu spadá pod čl. 55 odst. 2 → příslušný je vždy tuzemský úřad (ÚOOÚ) a čl. 56 (one-stop-shop) se nepoužije.
+
+**5. Řešení.** Dohled vykonává ÚOOÚ; mechanismus vedoucího úřadu se neuplatní. Procesně: vedení řízení tuzemským úřadem dle čl. 55 odst. 2.
+
+**6. Varianty.** (a) U soukromého správce s přeshraničním zpracováním na jiném titulu se uplatní čl. 56. (b) Soudní agenda soudů je z dohledu vyňata (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *„I na veřejné orgány platí one-stop-shop."* Čl. 55 odst. 2 výslovně vylučuje čl. 56 pro zpracování dle písm. c)/e).
+- *„ÚOOÚ není příslušný k cizím orgánům."* Pro tuzemské veřejné zpracování je příslušný vždy tuzemský úřad.
+- *Slabé místo:* určení právního základu (c/e vs. jiný) může být sporné a rozhoduje o aplikaci výjimky.
+
+#### H. Praktický závěr
+
+Pro zpracování orgány veřejné moci (a soukromými subjekty) na základě zákonné povinnosti či veřejného úkolu je vždy příslušný tuzemský dozorový úřad; mechanismus vedoucího úřadu se zde neuplatní.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o zpracování dle čl. 6 odst. 1 písm. c) nebo e)?
+- [ ] Je tím vyloučen čl. 56 (one-stop-shop)?
+- [ ] Je příslušný tuzemský úřad (ÚOOÚ) dle čl. 55 odst. 2?
+- [ ] Nejde o vyňatou soudní agendu (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** identifikace právního základu zpracování, povaha subjektu, územní vazba, vymezení agendy.
 
 ---
 
@@ -146,6 +327,43 @@ Odst. 3 vyjímá z dohledu zpracování prováděná soudy při výkonu soudní 
 **Výjimka pro lokální věci (odst. 2–5):** I přesto, že LSA je obecně příslušný pro přeshraniční zpracování, může místní dozorový úřad vyřídit stížnost nebo prošetřit porušení GDPR samostatně, týká-li se věc výlučně provozovny na jeho území nebo podstatně dotýká subjektů údajů pouze v jeho státě. Recitál 127 upřesňuje, že jde například o zpracování dat zaměstnanců v konkrétním zaměstnaneckém kontextu jednoho členského státu. Místní úřad musí o věci informovat LSA, který má tři týdny na rozhodnutí, zda si věc přebere do mechanismu čl. 60 (a místní úřad může předložit návrh rozhodnutí), nebo nechá věc vyřídit místnímu úřadu.
 
 **One-stop-shop v praxi ÚOOÚ:** ÚOOÚ vystupuje jako vedoucí dozorový úřad pro správce a zpracovatele s hlavní provozovnou v České republice — tj. pro globální technologické ani sociální sítě (jejichž EU-provozovny jsou zpravidla v Irsku nebo Lucembursku) ÚOOÚ vedoucím úřadem není. Naopak v řízeních, kde subjekt údajů v ČR podá stížnost na správce se sídlem v jiném členském státě, je ÚOOÚ „dotčeným dozorovým úřadem" a participuje na konzultaci vedené LSA. Odst. 6 výslovně zakotvuje, že vedoucí úřad je **jediným partnerem** (*sole interlocutor*) správce nebo zpracovatele — správce tak nemusí paralelně komunikovat s desítkami národních úřadů.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Subjekt z ČR podá ÚOOÚ stížnost na nadnárodní sociální síť s hlavní provozovnou v Irsku. ÚOOÚ zvažuje, zda věc vyřídí sám, nebo zda je vedoucím úřadem irský úřad. Současně lokální zaměstnanec namítá zpracování českou pobočkou téže sítě dotýkající se výlučně zaměstnanců v ČR. Důkazy: umístění hlavní provozovny, místo přijímání rozhodnutí o účelech, dosah zpracování na subjekty.
+
+**2. Právní otázka.** Kdo je vedoucím dozorovým úřadem dle čl. 56 a kdy může ÚOOÚ jako dotčený úřad řešit lokální věc samostatně (odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 56 odst. 1 (vedoucí úřad dle hlavní provozovny), odst. 2 (lokální věci), odst. 6 (jediný partner).
+- *Související ustanovení téhož zákona:* čl. 4 bod 16 (hlavní provozovna), čl. 55, čl. 60–62.
+- *Související předpisy:* recitál 127; § 54 ZZOÚ.
+- *Judikatura:* SDEU k one-stop-shop a pravomoci dotčeného úřadu.
+
+**4. Subsumpce.** U přeshraničního zpracování sítě s hlavní provozovnou v Irsku je vedoucím úřadem irský úřad; ÚOOÚ je dotčeným úřadem a participuje dle čl. 60. U věci dotýkající se výlučně zaměstnanců v ČR může ÚOOÚ věc řešit sám (odst. 2), s informováním vedoucího úřadu.
+
+**5. Řešení.** Stížnost na síť se vyřizuje cestou vedoucího úřadu (čl. 60), ÚOOÚ podává návrhy a námitky. Lokální zaměstnaneckou věc může ÚOOÚ vyřídit sám. Procesně: postoupení/koordinace, informování LSA.
+
+**6. Varianty.** (a) Má-li správce hlavní provozovnu v ČR, je vedoucím úřadem ÚOOÚ. (b) Rozhodne-li LSA, že lokální věc nepřebere (odst. 5), řeší ji ÚOOÚ dle čl. 61–62.
+
+#### G. Protiargumenty a rizika
+
+- *„ÚOOÚ vyřídí každou stížnost sám."* U přeshraničního zpracování je primárně příslušný vedoucí úřad; ÚOOÚ je dotčeným úřadem.
+- *„Hlavní provozovna = sídlo."* Rozhoduje místo přijímání rozhodnutí o účelech a prostředcích (čl. 4 bod 16), ne formální sídlo.
+- *Slabé místo:* určení hlavní provozovny bývá sporné u decentralizovaných struktur.
+
+#### H. Praktický závěr
+
+U přeshraničního zpracování je primárně příslušný vedoucí úřad podle hlavní provozovny (one-stop-shop); dotčený úřad může vyřídit jen čistě lokální věci a jinak participuje cestou čl. 60.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o přeshraniční zpracování (aplikace čl. 56)?
+- [ ] Kde je hlavní provozovna / místo rozhodování o účelech (čl. 4 bod 16)?
+- [ ] Je věc čistě lokální (odst. 2), nebo přeshraniční?
+- [ ] Byl informován / zapojen vedoucí úřad (odst. 3, čl. 60)?
+- [ ] Je respektován vedoucí úřad jako jediný partner (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o umístění hlavní provozovny, popis rozhodování o účelech, dosah zpracování na subjekty, komunikace mezi úřady.
 
 ---
 
@@ -190,6 +408,43 @@ Odst. 3 vyjímá z dohledu zpracování prováděná soudy při výkonu soudní 
 Z hlediska praxe jsou nejčastěji uplatňovány: monitorování a prosazování (písm. a) — ÚOOÚ zahajuje šetření z vlastního podnětu nebo na základě stížností; vyřizování stížností (písm. f) — stěžovatel má právo být informován o průběhu i výsledku v přiměřené lhůtě; vedení seznamu operací zpracování vyžadujících posouzení vlivu (písm. k) — ÚOOÚ takový seznam publikoval na svých webových stránkách a periodicky jej aktualizuje; a poradenství zákonodárci (písm. c) — ÚOOÚ se vyjadřuje k návrhům zákonů dotýkajícím se ochrany osobních údajů.
 
 Bezplatnost výkonu úkolů (odst. 3) platí pro subjekt údajů i pověřence pro ochranu osobních údajů. Výjimka pro zjevně nedůvodné nebo opakující se žádosti (odst. 4) je pojistkou proti zneužití; důkazní břemeno leží na úřadu. Zákon č. 110/2019 Sb. katalog úkolů ÚOOÚ specifikuje v § 54 ZZOÚ (činnosti Úřadu); § 60 pak upravuje opatření k nápravě — vazba na čl. 57 odst. 1 písm. a) a f) ve spojení s čl. 58 odst. 2.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Subjekt podá ÚOOÚ stížnost a požaduje, aby jej úřad informoval o průběhu a výsledku. Úřad několik měsíců nereaguje. Týž subjekt poté zasílá denně desítky opakovaných totožných žádostí o stejnou věc. Důkazy: podaná stížnost, lhůty a komunikace úřadu, povaha opakovaných žádostí.
+
+**2. Právní otázka.** Jakou povinnost má úřad při vyřizování stížnosti dle čl. 57 odst. 1 písm. f) a kdy může odmítnout zjevně nedůvodné nebo nepřiměřené žádosti (odst. 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 57 odst. 1 písm. f) (vyřizování stížností, informování), odst. 2 (usnadnění podání), odst. 3 (bezplatnost), odst. 4 (zjevně nedůvodné/nepřiměřené žádosti).
+- *Související ustanovení téhož zákona:* čl. 58 (pravomoci), čl. 77 (právo na stížnost), čl. 78.
+- *Související předpisy:* § 54 ZZOÚ; kontrolní řád.
+- *Judikatura:* —
+
+**4. Subsumpce.** Úřad musí stížnost přiměřeně prošetřit a informovat stěžovatele o průběhu a výsledku v přiměřené lhůtě (písm. f)) bezplatně. U zjevně nedůvodných nebo opakujících se žádostí může účtovat poplatek nebo odmítnout, nese však důkazní břemeno (odst. 4).
+
+**5. Řešení.** Úřad je povinen reagovat; nečinnost zakládá právo subjektu na soudní ochranu (čl. 78). Opakované totožné žádosti může úřad po doložení nepřiměřenosti odmítnout. Procesně: vyřízení stížnosti, doložení nepřiměřenosti.
+
+**6. Varianty.** (a) U jediné věcné stížnosti je odmítnutí pro nepřiměřenost vyloučeno. (b) Při nečinnosti úřadu se subjekt brání žalobou dle čl. 78.
+
+#### G. Protiargumenty a rizika
+
+- *„Úřad nemusí informovat o výsledku."* Písm. f) výslovně ukládá informovat o průběhu i výsledku v přiměřené lhůtě.
+- *„Každou opakovanou žádost lze odmítnout."* Odmítnutí vyžaduje doložení zjevné nedůvodnosti/nepřiměřenosti (odst. 4); důkaz nese úřad.
+- *Slabé místo:* hranice „nepřiměřenosti" je sporná; rozhoduje frekvence a věcná totožnost žádostí.
+
+#### H. Praktický závěr
+
+Dozorový úřad musí stížnosti přiměřeně prošetřit a bezplatně informovat o průběhu a výsledku; zjevně nedůvodné či opakující se žádosti může odmítnout, ale musí to doložit.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla stížnost přiměřeně prošetřena (písm. f))?
+- [ ] Byl stěžovatel informován o průběhu a výsledku v přiměřené lhůtě?
+- [ ] Byl výkon úkolu bezplatný (odst. 3)?
+- [ ] Je u odmítnutí doložena zjevná nedůvodnost/nepřiměřenost (odst. 4)?
+- [ ] Bylo poučeno o soudní ochraně při nečinnosti (čl. 78)?
+
+**Typicky rozhodné důkazy / podklady:** podaná stížnost, komunikace a lhůty úřadu, doklad o prošetření, evidence opakovaných žádostí.
 
 ---
 
@@ -249,6 +504,43 @@ Bezplatnost výkonu úkolů (odst. 3) platí pro subjekt údajů i pověřence p
 
 Odst. 4 zajišťuje, že výkon všech těchto pravomocí musí splňovat standardy Listiny základních práv EU, zejm. právo na spravedlivý proces (čl. 47 Listiny) a zásadu proporcionality. Každé právně závazné rozhodnutí musí být písemné, odůvodněné a přezkoumatelné soudem. Odst. 5 zavazuje členské státy, aby zákonem úřadu přiznaly i právo upozornit soud na porušení GDPR nebo se jinak podílet na soudním řízení — v Česku tuto pravomoc ÚOOÚ vykonává prostřednictvím ustanovení § 54 ZZOÚ.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ÚOOÚ při kontrole správce zjistí závažné a opakované porušení (rozsáhlý sběr bez právního základu, absence zabezpečení). Zvažuje, zda uložit jen napomenutí, nebo nařídit nápravu a uložit pokutu, případně omezit zpracování. Správce odmítá vstup kontrolorů do prostor. Důkazy: protokol o kontrole, doklad o porušeních, odepření vstupu, návrh nápravných opatření.
+
+**2. Právní otázka.** Jaké vyšetřovací a nápravné pravomoci může úřad využít dle čl. 58 a může uložit pokutu vedle jiných opatření?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 58 odst. 1 (vyšetřovací — přístup, audit, prostory), odst. 2 (nápravné — napomenutí, příkaz k nápravě, omezení, pokuta), odst. 4 (záruky řádného procesu).
+- *Související ustanovení téhož zákona:* čl. 57, čl. 83 (pokuty), čl. 78 (soudní ochrana).
+- *Související předpisy:* § 58, § 60 ZZOÚ; kontrolní řád (zák. č. 255/2012 Sb.).
+- *Judikatura:* —
+
+**4. Subsumpce.** Úřad má právo na přístup k údajům, audit a vstup do prostor (odst. 1); odepření vstupu je maření kontroly. Nápravně může napomenout, nařídit nápravu, omezit zpracování i uložit pokutu, a to vedle sebe (odst. 2 písm. i)), při respektu k proporcionalitě a řádnému procesu (odst. 4).
+
+**5. Řešení.** Úřad zajistí součinnost (případně za asistence policie), nařídí nápravu se lhůtou (§ 60 ZZOÚ) a podle závažnosti uloží pokutu dle čl. 83. Rozhodnutí musí být odůvodněné a soudně přezkoumatelné. Procesně: kontrola, nápravná opatření, sankce.
+
+**6. Varianty.** (a) U méně závažného porušení postačí napomenutí (písm. b)). (b) Při ohrožení práv subjektů lze uložit dočasné omezení/zákaz zpracování (písm. f)).
+
+#### G. Protiargumenty a rizika
+
+- *„Úřad nemůže do našich prostor."* Úřad má vyšetřovací pravomoc vstupu (odst. 1 písm. f)); odepření je maření kontroly.
+- *„Pokuta nelze vedle nápravy."* Pokutu lze uložit vedle i místo jiných opatření (odst. 2 písm. i)).
+- *Slabé místo:* volba opatření podléhá proporcionalitě; nepřiměřená sankce je přezkoumatelná soudem.
+
+#### H. Praktický závěr
+
+Dozorový úřad disponuje širokým arzenálem od vyšetřovacích pravomocí po sankce; opatření volí přiměřeně závažnosti, může je kombinovat a každé závazné rozhodnutí musí být odůvodněné a soudně přezkoumatelné.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byly využity vyšetřovací pravomoci (přístup, audit, vstup) (odst. 1)?
+- [ ] Bylo zvoleno přiměřené nápravné opatření (odst. 2)?
+- [ ] Byla pokuta (je-li uložena) odůvodněna dle čl. 83?
+- [ ] Byly dodrženy záruky řádného procesu (odst. 4)?
+- [ ] Je rozhodnutí soudně přezkoumatelné (čl. 78)?
+
+**Typicky rozhodné důkazy / podklady:** protokol o kontrole, doklady o porušeních, dokumentace odepření součinnosti, odůvodnění zvolených opatření a výše pokuty.
+
 ---
 
 ### Čl. 59 — Zprávy o činnosti
@@ -259,3 +551,39 @@ Odst. 4 zajišťuje, že výkon všech těchto pravomocí musí splňovat standa
 **Výklad:** Článek 59 zakotvuje povinnost dozorového úřadu podávat výroční zprávu o svých činnostech. Jde o klíčový nástroj demokratické odpovědnosti (*accountability*): výroční zpráva je zasílána parlamentu, vládě a dalším zákonem stanoveným orgánům a zároveň musí být veřejně dostupná — přístup mají i Evropská komise a Evropský sbor pro ochranu osobních údajů (EDPB). Zpráva není pouhým statistickým výkazem, ale může obsahovat přehled druhů porušení a typů nápravných opatření přijatých podle čl. 58 odst. 2 — tj. upozornění, napomenutí, příkazů a správních pokut. Recitál 129 a obecné principy GDPR naznačují, že zpráva má rovněž sloužit jako zpětná vazba zákonodárci a veřejnosti o stavu dodržování nařízení.
 
 ÚOOÚ plní tuto povinnost každoročně vydáváním výroční zprávy (§ 54 odst. 1 písm. k) ZZOÚ, která je zasílána Poslanecké sněmovně, vládě a EDPB a volně dostupná na webu Úřadu. Zpráva obsahuje statistiky stížností, zahájených šetření, uložených pokut i poradenských a metodických aktivit Úřadu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Novinář žádá ÚOOÚ o přehled druhů porušení a nápravných opatření za uplynulý rok a o důvěrné detaily konkrétních neuzavřených kauz. Úřad poskytne výroční zprávu se statistikami, ale detaily konkrétních kauz a identitu stěžovatelů odmítne. Důkazy: obsah výroční zprávy, rozsah zveřejněných statistik, povaha požadovaných důvěrných informací.
+
+**2. Právní otázka.** Jaký je rozsah a povaha výroční zprávy dle čl. 59 a může v jejím rámci úřad zveřejnit důvěrné detaily konkrétních kauz?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* čl. 59 (výroční zpráva, příjemci, veřejná dostupnost, přehled porušení a opatření).
+- *Související ustanovení téhož zákona:* čl. 54 odst. 2 (profesní tajemství), čl. 57, čl. 58 odst. 2.
+- *Související předpisy:* § 57 ZZOÚ (výroční zpráva); zák. č. 106/1999 Sb. (informace).
+- *Judikatura:* —
+
+**4. Subsumpce.** Výroční zpráva obsahuje (případně) přehled druhů porušení a opatření a je veřejně dostupná. Důvěrné detaily konkrétních kauz a identita stěžovatelů jsou kryty profesním tajemstvím (čl. 54 odst. 2) → ve zprávě se neuvádějí.
+
+**5. Řešení.** Úřad poskytne agregované statistiky ve výroční zprávě; konkrétní důvěrné údaje a identitu oznamovatelů nezveřejní. Procesně: zveřejnění zprávy, ochrana důvěrnosti.
+
+**6. Varianty.** (a) Anonymizované kazuistiky pro osvětu jsou přípustné. (b) Informace o pravomocně uzavřených věcech mohou být dostupné v širším rozsahu při respektu k ochraně osob.
+
+#### G. Protiargumenty a rizika
+
+- *„Zpráva musí obsahovat detaily kauz."* Zpráva je primárně přehledová; důvěrné detaily kryje profesní tajemství.
+- *„Veřejná dostupnost ruší mlčenlivost."* Veřejnost zprávy se týká agregovaných údajů, ne identit oznamovatelů.
+- *Slabé místo:* hranice mezi legitimní transparentností a ochranou důvěrnosti je sporná; rozhoduje míra agregace.
+
+#### H. Praktický závěr
+
+Výroční zpráva je nástrojem demokratické odpovědnosti úřadu: obsahuje agregované přehledy porušení a opatření, je veřejně dostupná, avšak nezpřístupňuje důvěrné detaily kauz ani identitu oznamovatelů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla výroční zpráva vypracována a zaslána zákonným příjemcům?
+- [ ] Je veřejně dostupná (vč. Komise a sboru)?
+- [ ] Obsahuje (případně) přehled druhů porušení a opatření?
+- [ ] Je chráněna důvěrnost konkrétních kauz a oznamovatelů (čl. 54 odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** text výroční zprávy, rozdělovník příjemců, doklad o veřejné dostupnosti, posouzení důvěrnosti zveřejňovaných údajů.
