@@ -731,6 +731,13 @@ Odstavec 3 zakotvuje povinné upuštění od správního trestu pro orgány veř
 
 Praktický dopad je zásadní: státní orgány, obce, kraje, státní podnikatelé a jiné veřejnoprávní subjekty nemohou dostat finanční pokutu od ÚOOÚ — ani v případě závažného porušení GDPR. Úřad je vůči nim odkázán výhradně na nefinanční nástroje: nápravná opatření (§ 60), napomenutí (čl. 58 odst. 2 písm. b) GDPR), příkaz k nápravě nebo v krajním případě dočasné omezení zpracování. Toto řešení je terčem odborné kritiky jako potenciálně oslabující efektivitu dohledu nad veřejnou správou — naopak jeho zastánci poukazují na absenci smyslu ukládat pokuty entitám financovaným z veřejných prostředků (de facto by pokuta přešla z jedné veřejné kapsy do jiné). EDPB vydal obecné pokyny k čl. 83 odst. 7, v nichž zdůraznil, že alternativní opatření musí být dostatečně účinná, aby zajistila soulad s nařízením.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 As 32/2023 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/719984) — 26. 3. 2024
+  > „Nejvyšší správní soud se neztotožnil s argumentací žalovaného, podle níž rozhodnutí, jímž bylo konstatováno spáchání přestupku a zároveň upuštěno od uložení správního trestu, nezasahuje právní sféru adresáta takového rozhodnutí. I samotný deklaratorní výrok o vině za spáchaný přestupek nepochybně právní sféru zasahuje a takové rozhodnutí splňuje znaky rozhodnutí dle § 65 s. ř. s. … Nejvyšší správní soud souhlasí se stěžovatelkou potud, že příkazem nelze upustit od potrestání"
+- *NSS* [6 As 167/2024 - 46](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/741828) — 21. 5. 2025
+  > „přestupku podle § 62 odst. 1 písm. b) zákona o zpracování osobních údajů se správce údajů může dopustit tím, že poruší některou ze základních zásad pro zpracování osobních údajů podle čl. 5 až 7 nebo čl. 9 nařízení GDPR. … Dikce čl. 5 odst. 2 nařízení GDPR ovšem jednoznačně odkazuje na základní zásady zakotvené pod písmeny a) až f) čl. 5 odst. 1 nařízení GDPR. Podle čl. 5 odst. 2 GDPR správce odpovídá za dodržování zásad stanovených formou povinností v odstavci 1 tohoto článku a musí být schopen prokázat, že jsou tyto zásady dodržovány…"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Statutární město jako správce osobních údajů provozuje kamerový systém a marketingovou databázi, přičemž závažně poruší zásadu zákonnosti zpracování (čl. 5 a 6 GDPR) a nevyhoví žádostem subjektů o výmaz (čl. 17 GDPR). Paralelně soukromá akciová společnost se dopustí téhož typu porušení. ÚOOÚ zvažuje uložení pokut. Důkazy: identifikace správce (orgán veřejné moci / veřejnoprávní subjekt vs. soukromý subjekt), povaha porušení (čl. 5–7, 12–22 GDPR), předchozí nápravná opatření.
@@ -867,6 +874,11 @@ Praktický dopad je zásadní: státní orgány, obce, kraje, státní podnikate
 
 Horní hranice pokuty 10 000 000 Kč (odst. 4) je výrazně nižší než sankce dle čl. 83 odst. 5 GDPR (20 000 000 EUR nebo 4 % celosvětového ročního obratu). Tento rozdíl je vědomý: zpracování podle hlavy III provádějí výhradně orgány veřejné moci nebo jim blízké subjekty (Policie ČR, státní zastupitelství, vězeňská služba, zpravodajské služby — tyto jsou však vyňaty i z dozoru Úřadu), u nichž finanční sankce plní jinou funkci než u soukromých správců zpracovávajících data komerčně.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 A 83/2023 - 63](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/724502) — 20. 6. 2024
+  > „Protože v dané věci subjektem předmětných přestupků dle ustanovení § 63 odst. 1 písm. a), d), k) a l) zákona č. 110/2019 Sb. může být pouze právnická osoba, která se jich dopustí při zpracování osobních údajů (tj. jako zpracovatel), je zřejmé, že v předmětném případě je subjektem takového přestupku, který byl spáchán jednáním Policie České republiky, Česká republika, která tak je pasivně legitimována"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Příspěvková organizace zřízená krajem zpracovává osobní údaje pro účely předcházení a vyšetřování přestupkové a trestné činnosti (režim hlavy III) a poruší povinnost přijmout odpovídající technická a organizační opatření k zabezpečení (§ 40), neprovede posouzení vlivu (§ 37) a neohlásí Úřadu porušení zabezpečení (§ 41). ÚOOÚ zvažuje pokutu. Důkazy: povaha zpracování (hlava III, nikoli soud/SZ/zpravodajská služba), konkrétní porušené povinnosti, postavení subjektu (právnická osoba — správce).
@@ -911,6 +923,11 @@ Horní hranice pokuty 10 000 000 Kč (odst. 4) je výrazně nižší než sankce
 > *Přestupky podle tohoto zákona projednává Úřad.*
 
 **Výklad:** § 64 je stručným, leč podstatným kompetenčním ustanovením: vylučuje obecnou věcnou příslušnost přestupkových komisí obcí a svěřuje veškerou přestupkovou agendu podle zákona č. 110/2019 Sb. Úřadu jako specializovanému orgánu. To odpovídá čl. 58 odst. 2 písm. i) GDPR, který dozorovému úřadu výslovně svěřuje pravomoc ukládat správní pokuty. Procesní rámec řízení o přestupku se řídí zákonem č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich, nestanoví-li zákon č. 110/2019 Sb. jinak (§ 65 zavádí jednu takovou odchylku).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [63 A 6/2023 - 92](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/718275) — 30. 11. 2023
+  > „Pokud se však žalobce domnívá, že do jeho práva na ochranu osobních údajů bylo zasaženo, je na něm, aby se využil zákonem předvídaných prostředků, tj. např. se obrátil na Úřad pro ochranu osobních údajů, kterému dle § 64 odst. 1 zákona č. 110/2019 Sb., o zpracování osobních údajů, ve znění pozdějších předpisů, přísluší projednávat přestupky týkající se porušení zákazu zveřejnění osobních údajů"
 
 #### F. Kazuistika
 
@@ -1025,6 +1042,11 @@ Veškeré přestupky podle zákona č. 110/2019 Sb. projednává výlučně ÚOO
 
 *Kontinuita souhlasů* (odst. 7): Souhlasy udělené za starého právního režimu zůstávají platné, pokud způsob jejich udělení splňoval požadavky GDPR. Je-li souhlas „starého" formátu v souladu s GDPR (svobodný, konkrétní, informovaný, jednoznačný), není potřeba jej znovu získávat. Toto ustanovení je v souladu s recitálem 171 GDPR, který umožňuje zachování souhlasů za podmínky, že jsou v souladu s podmínkami nařízení.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 23/2023 - 49](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/719315) — 6. 2. 2024
+  > „Článek 9 nařízení 2016/679/EU (obecné nařízení o ochraně osobních údajů, GDPR) vymezuje zvláštní kategorie osobních údajů … Podobně platí podle § 66 odst. 6 zákona č. 110/2019 Sb., o zpracování osobních údajů, kde se v dosavadních právních předpisech používá pojem citlivý údaj nebo citlivý osobní údaj, rozumí se tím ode dne nabytí účinnosti tohoto zákona osobní údaj, který vypovídá o rasovém nebo etnickém původu, politických názorech, náboženském vyznání nebo filosofickém přesvědčení nebo členství v odborové organizaci…"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Obchodní společnost získala v roce 2017 podle zákona č. 101/2000 Sb. souhlasy zákazníků se zpracováním pro marketingové účely a po nabytí účinnosti zákona č. 110/2019 Sb. řeší, zda je musí znovu získávat. Současně proti ní bylo v dubnu 2019 zahájeno řízení podle zákona č. 101/2000 Sb., které dosud nebylo skončeno. Ptá se i na to, jak nakládat se starší smlouvou používající pojem „citlivý údaj". Důkazy: forma a obsah dříve udělených souhlasů, datum zahájení řízení, znění starších dokumentů.
@@ -1124,6 +1146,11 @@ Veškeré přestupky podle zákona č. 110/2019 Sb. projednává výlučně ÚOO
 Zrušení proběhlo formou úplné derogace základního zákona i všech jeho přímých novel (body 2–24) a navazujících části jiných zákonů (body 3–24 zahrnují novely provedené doprovodným zákonodárstvím od roku 2001 do roku 2017). Tím byla vyčištěna legislativní stopa zákona č. 101/2000 Sb. z celého právního řádu. Výjimkou je právě přechodná klauzule § 66 odst. 5, která pro dosud neskončená řízení zachovává zákon č. 101/2000 Sb. jako procesní normu.
 
 Historický a systematický dosah § 67 je nutno vnímat v kontextu celkové změny paradigmatu: zákon č. 101/2000 Sb. stál na principu registrace a notifikace (správci museli registrovat zpracování u Úřadu), zatímco nový zákon spolu s GDPR přechází na princip odpovědnosti (accountability) — správci jsou odpovědni za soulad zpracování s právem bez povinné předchozí registrace. Tato změna je strukturálně zásadní a § 67 ji symbolicky uzavírá.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [13 A 91/2018 - 27](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/596090) — 23. 2. 2021
+  > „pokud žalovaný dospěje ke kladnému závěru, bude muset rovněž zvážit, zda dané jednání je přestupkem i dle nové právní úpravy (zákon č. 110/2019 Sb., o zpracování osobních údajů, který s účinností od 24. 4. 2019 zrušil mimo jiné i zákon o ochraně osobních údajů, viz § 67 zákona č. 110/2019 Sb.). Zásada obsažená v čl. 40 odst. 6 Listiny základních práv a svobod … totiž nepochybně platí i v oblasti správního trestání"
 
 #### F. Kazuistika
 
